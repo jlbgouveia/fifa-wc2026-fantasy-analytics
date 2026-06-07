@@ -27,9 +27,13 @@ def grid(df, base, height=430):
     pdf = df.to_pandas() if hasattr(df, "to_pandas") else df
     gb = GridOptionsBuilder.from_dataframe(pdf)
     gb.configure_default_column(filterable=True, sortable=True, resizable=True,
-                                floatingFilter=True)
+                                floatingFilter=True, minWidth=95, maxWidth=240)
+    go = gb.build()
+    # Size each column to its own header/content (full names stay readable) and let the
+    # user scroll right, instead of squeezing every column into the viewport (bad on mobile).
+    go["autoSizeStrategy"] = {"type": "fitCellContents"}
     h = int(pd.util.hash_pandas_object(pdf, index=False).sum())
-    AgGrid(pdf, gridOptions=gb.build(), theme="streamlit", height=height,
+    AgGrid(pdf, gridOptions=go, theme="streamlit", height=height,
            fit_columns_on_grid_load=False, key=f"{base}_{h}")
 
 
