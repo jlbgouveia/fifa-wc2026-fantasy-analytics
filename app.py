@@ -86,7 +86,13 @@ with tab_rank:
     st.caption(f"**Score** = {an.METRIC_FORMULAS[metric]}  ·  mode: {score_mode}")
     st.caption(f"{len(res)} players  ·  {', '.join(position) or 'all positions'}  ·  "
                f"years {yr[0]}-{yr[1]}  ·  competition: {comp}")
-    grid(res, "rank", height=520)
+
+    # column picker — default is all columns; trim it to declutter (handy on mobile)
+    all_cols = list(res.columns)
+    with st.expander("Columns to display"):
+        chosen = st.multiselect("Show columns", all_cols, default=all_cols,
+                                key=f"cols_{'_'.join(all_cols)}", label_visibility="collapsed")
+    grid(res.select(chosen) if chosen else res, "rank", height=520)
 
 # --------------------------------------------------------------- Per-country
 with tab_country:
