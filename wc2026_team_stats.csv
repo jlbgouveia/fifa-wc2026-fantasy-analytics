@@ -1,0 +1,463 @@
+country,team_id,season,season_start_year,competition,played,wins,draws,losses,goals_for,goals_against,clean_sheets,goal_diff,points
+Algeria,1532,2022/23,2022,World Cup - Qualification Africa,8,5,2,1,27,6,4,21,17
+Algeria,1532,2022/23,2022,Friendlies,6,4,1,1,9,5,2,4,13
+Algeria,1532,2022/23,2022,African Nations Championship,6,5,1,0,9,0,6,9,16
+Algeria,1532,2023/24,2023,Africa Cup of Nations - Qualification,6,5,1,0,9,2,4,7,16
+Algeria,1532,2023/24,2023,Friendlies,4,2,2,0,8,3,1,5,8
+Algeria,1532,2023/24,2023,World Cup - Qualification Africa,10,8,1,1,24,8,3,16,25
+Algeria,1532,2023/24,2023,Africa Cup of Nations,3,0,2,1,3,4,0,-1,2
+Algeria,1532,2024/25,2024,Friendlies,3,2,1,0,10,5,1,5,7
+Algeria,1532,2024/25,2024,African Nations Championship - Qualification,2,1,1,0,3,0,2,3,4
+Algeria,1532,2024/25,2024,African Nations Championship,5,1,4,0,6,3,2,3,7
+Algeria,1532,2025/26,2025,Africa Cup of Nations - Qualification,6,5,1,0,16,2,4,14,16
+Algeria,1532,2025/26,2025,Africa Cup of Nations,5,4,0,1,8,3,3,5,12
+Algeria,1532,2025/26,2025,Friendlies,4,3,0,1,10,5,2,5,9
+Algeria,1532,2025/26,2025,Arab Cup,4,2,2,0,8,2,2,6,8
+Argentina,26,2022/23,2022,World Cup - Qualification South America,17,11,6,0,27,8,10,19,39
+Argentina,26,2022/23,2022,Friendlies,5,5,0,0,19,0,5,19,15
+Argentina,26,2022/23,2022,World Cup,7,4,2,1,15,8,3,7,14
+Argentina,26,2022/23,2022,CONMEBOL - UEFA Finalissima,1,1,0,0,3,0,1,3,3
+Argentina,26,2023/24,2023,Friendlies,4,4,0,0,13,0,4,13,12
+Argentina,26,2024/25,2024,Copa America,6,5,1,0,9,1,5,8,16
+Argentina,26,2024/25,2024,Friendlies,4,4,0,0,11,2,2,9,12
+Argentina,26,2025/26,2025,Friendlies,3,3,0,0,9,0,3,9,9
+Australia,20,2022/23,2022,World Cup - Qualification Asia,19,13,3,3,45,12,10,33,42
+Australia,20,2022/23,2022,Friendlies,3,3,0,0,5,1,2,4,9
+Australia,20,2022/23,2022,World Cup - Qualification Intercontinental Play-offs,1,0,1,0,0,0,1,0,1
+Australia,20,2022/23,2022,World Cup,4,2,0,2,4,6,2,-2,6
+Australia,20,2023/24,2023,Friendlies,7,3,1,3,10,8,2,2,10
+Australia,20,2023/24,2023,Asian Cup,5,3,1,1,9,3,3,6,10
+Australia,20,2024/25,2024,Friendlies,1,1,0,0,2,0,1,2,3
+Australia,20,2025/26,2025,Friendlies,6,3,0,3,6,7,2,-1,9
+Austria,775,2022/23,2022,Friendlies,3,2,1,0,5,2,2,3,7
+Austria,775,2022/23,2022,UEFA Nations League,6,1,1,4,6,10,1,-4,4
+Austria,775,2023/24,2023,Euro Championship - Qualification,8,6,1,1,17,7,3,10,19
+Austria,775,2023/24,2023,Friendlies,2,1,1,0,3,1,1,2,4
+Austria,775,2024/25,2024,Euro Championship,4,2,0,2,7,6,0,1,6
+Austria,775,2024/25,2024,Friendlies,4,3,1,0,11,3,1,8,10
+Austria,775,2024/25,2024,UEFA Nations League,8,3,3,2,15,8,2,7,12
+Austria,775,2024/25,2024,World Cup - Qualification Europe,8,6,1,1,22,4,4,18,19
+Belgium,1,2022/23,2022,Friendlies,3,1,1,1,6,4,1,2,4
+Belgium,1,2022/23,2022,UEFA Nations League,6,3,1,2,11,8,1,3,10
+Belgium,1,2022/23,2022,World Cup,3,1,1,1,1,2,2,-1,4
+Belgium,1,2023/24,2023,Euro Championship - Qualification,8,6,2,0,22,4,5,18,20
+Belgium,1,2023/24,2023,Friendlies,2,2,0,0,4,2,1,2,6
+Belgium,1,2024/25,2024,Euro Championship,4,1,1,2,2,2,2,0,4
+Belgium,1,2024/25,2024,Friendlies,4,2,2,0,7,2,3,5,8
+Belgium,1,2024/25,2024,UEFA Nations League,8,2,1,5,10,12,1,-2,7
+Belgium,1,2024/25,2024,World Cup - Qualification Europe,8,5,3,0,29,7,4,22,18
+Bosnia and Herzegovina,1113,2022/23,2022,Friendlies,2,1,0,1,1,1,1,0,3
+Bosnia and Herzegovina,1113,2022/23,2022,UEFA Nations League,6,3,2,1,8,8,2,0,11
+Bosnia and Herzegovina,1113,2023/24,2023,Euro Championship - Qualification,11,3,0,8,10,22,2,-12,9
+Bosnia and Herzegovina,1113,2024/25,2024,Friendlies,2,0,0,2,0,4,0,-4,0
+Bosnia and Herzegovina,1113,2024/25,2024,UEFA Nations League,6,0,2,4,4,17,1,-13,2
+Bosnia and Herzegovina,1113,2024/25,2024,World Cup - Qualification Europe,10,5,4,1,19,9,3,10,19
+Bosnia and Herzegovina,1113,2025/26,2025,Friendlies,2,1,0,1,5,3,0,2,3
+Brazil,6,2022/23,2022,World Cup - Qualification South America,17,14,3,0,40,5,13,35,45
+Brazil,6,2022/23,2022,World Cup,5,3,1,1,8,3,2,5,10
+Brazil,6,2022/23,2022,Friendlies,4,4,0,0,14,2,2,12,12
+Brazil,6,2023/24,2023,Friendlies,3,1,0,2,7,7,0,0,3
+Brazil,6,2024/25,2024,Copa America,4,1,3,0,5,2,2,3,6
+Brazil,6,2024/25,2024,Friendlies,4,2,2,0,8,6,1,2,8
+Brazil,6,2025/26,2025,Friendlies,4,2,1,1,10,4,2,6,7
+Cabo Verde,1533,2022/23,2022,World Cup - Qualification Africa,6,3,2,1,8,6,1,2,11
+Cabo Verde,1533,2022/23,2022,Friendlies,3,3,0,0,10,1,2,9,9
+Cabo Verde,1533,2023/24,2023,Africa Cup of Nations - Qualification,6,3,1,2,8,6,3,2,10
+Cabo Verde,1533,2023/24,2023,Friendlies,3,0,1,2,2,7,1,-5,1
+Cabo Verde,1533,2023/24,2023,World Cup - Qualification Africa,10,7,2,1,16,8,7,8,23
+Cabo Verde,1533,2023/24,2023,Africa Cup of Nations,5,3,2,0,8,3,3,5,11
+Cabo Verde,1533,2024/25,2024,Friendlies,3,2,0,1,2,2,2,0,6
+Cabo Verde,1533,2025/26,2025,Africa Cup of Nations - Qualification,6,1,1,4,3,7,1,-4,4
+Cabo Verde,1533,2025/26,2025,Friendlies,5,1,4,0,6,3,2,3,7
+Canada,5529,2022/23,2022,World Cup - Qualification CONCACAF,20,14,4,2,54,8,12,46,46
+Canada,5529,2022/23,2022,World Cup,3,0,0,3,2,7,0,-5,0
+Canada,5529,2022/23,2022,CONCACAF Nations League,6,4,0,2,13,5,3,8,12
+Canada,5529,2022/23,2022,Friendlies,4,2,1,1,6,5,1,1,7
+Canada,5529,2023/24,2023,CONCACAF Gold Cup,4,1,3,0,8,6,1,2,6
+Canada,5529,2023/24,2023,Friendlies,1,0,0,1,1,4,0,-3,0
+Canada,5529,2023/24,2023,CONCACAF Nations League,3,2,0,1,6,4,1,2,6
+Canada,5529,2024/25,2024,Friendlies,5,2,2,1,4,6,2,-2,8
+Canada,5529,2024/25,2024,Copa America,6,1,3,2,4,7,2,-3,6
+Canada,5529,2024/25,2024,CONCACAF Nations League,4,3,0,1,6,3,2,3,9
+Canada,5529,2025/26,2025,Friendlies,8,4,3,1,10,3,6,7,15
+Canada,5529,2025/26,2025,CONCACAF Gold Cup,4,2,2,0,10,2,2,8,8
+Colombia,8,2022/23,2022,World Cup - Qualification South America,18,5,8,5,20,19,8,1,23
+Colombia,8,2022/23,2022,Friendlies,5,5,0,0,12,4,2,8,15
+Colombia,8,2023/24,2023,Friendlies,7,5,2,0,11,5,4,6,17
+Colombia,8,2024/25,2024,Copa America,6,4,1,1,12,3,3,9,13
+Colombia,8,2024/25,2024,Friendlies,4,4,0,0,12,3,2,9,12
+Colombia,8,2025/26,2025,Friendlies,4,3,1,0,9,1,3,8,10
+Congo DR,1508,2022/23,2022,World Cup - Qualification Africa,8,3,3,2,11,8,3,3,12
+Congo DR,1508,2022/23,2022,Friendlies,3,1,0,2,3,2,1,1,3
+Congo DR,1508,2022/23,2022,African Nations Championship,3,0,2,1,0,3,2,-3,2
+Congo DR,1508,2023/24,2023,Africa Cup of Nations - Qualification,6,3,1,2,9,5,2,4,10
+Congo DR,1508,2023/24,2023,Friendlies,4,1,2,1,2,2,2,0,5
+Congo DR,1508,2023/24,2023,World Cup - Qualification Africa,12,8,2,2,17,7,7,10,26
+Congo DR,1508,2023/24,2023,Africa Cup of Nations,7,1,5,1,6,5,2,1,8
+Congo DR,1508,2024/25,2024,Friendlies,2,0,1,1,1,2,1,-1,1
+Congo DR,1508,2024/25,2024,African Nations Championship - Qualification,2,1,1,0,4,2,0,2,4
+Congo DR,1508,2024/25,2024,African Nations Championship,4,2,0,2,5,4,2,1,6
+Congo DR,1508,2025/26,2025,Africa Cup of Nations - Qualification,6,4,0,2,7,3,4,4,12
+Congo DR,1508,2025/26,2025,Africa Cup of Nations,4,2,1,1,5,2,2,3,7
+Congo DR,1508,2025/26,2025,Friendlies,3,3,0,0,6,1,2,5,9
+Croatia,3,2022/23,2022,Friendlies,3,2,1,0,4,2,1,2,7
+Croatia,3,2022/23,2022,UEFA Nations League,8,5,2,1,12,8,3,4,17
+Croatia,3,2022/23,2022,World Cup,7,2,4,1,8,7,2,1,10
+Croatia,3,2023/24,2023,Euro Championship - Qualification,8,5,1,2,13,4,5,9,16
+Croatia,3,2024/25,2024,Euro Championship,3,0,2,1,3,6,0,-3,2
+Croatia,3,2024/25,2024,Friendlies,4,3,1,0,9,3,2,6,10
+Croatia,3,2024/25,2024,UEFA Nations League,8,3,2,3,10,10,2,0,11
+Croatia,3,2024/25,2024,World Cup - Qualification Europe,8,7,1,0,26,4,5,22,22
+Curaçao,5530,2022/23,2022,World Cup - Qualification CONCACAF,6,3,2,1,16,3,4,13,11
+Curaçao,5530,2022/23,2022,CONCACAF Nations League,4,1,0,3,2,8,0,-6,3
+Curaçao,5530,2022/23,2022,Friendlies,2,0,0,2,3,5,0,-2,0
+Curaçao,5530,2023/24,2023,Friendlies,5,0,4,1,2,9,2,-7,4
+Curaçao,5530,2023/24,2023,CONCACAF Gold Cup - Qualification,1,0,1,0,1,1,0,0,1
+Curaçao,5530,2023/24,2023,CONCACAF Nations League,4,1,0,3,6,7,0,-1,3
+Curaçao,5530,2024/25,2024,Friendlies,2,1,1,0,3,2,1,1,4
+Curaçao,5530,2024/25,2024,CONCACAF Nations League,6,4,1,1,15,3,4,12,13
+Curaçao,5530,2025/26,2025,Friendlies,1,0,0,1,0,2,0,-2,0
+Curaçao,5530,2025/26,2025,CONCACAF Gold Cup,3,0,2,1,2,3,1,-1,2
+Czechia,770,2022/23,2022,Friendlies,3,1,1,1,7,3,1,4,4
+Czechia,770,2022/23,2022,UEFA Nations League,6,1,1,4,5,13,0,-8,4
+Czechia,770,2023/24,2023,Euro Championship - Qualification,8,4,3,1,12,6,4,6,15
+Czechia,770,2023/24,2023,Friendlies,2,1,1,0,5,2,0,3,4
+Czechia,770,2024/25,2024,Euro Championship,3,0,1,2,3,5,0,-2,1
+Czechia,770,2024/25,2024,Friendlies,4,4,0,0,13,4,0,9,12
+Czechia,770,2024/25,2024,UEFA Nations League,6,3,2,1,9,8,2,1,11
+Czechia,770,2024/25,2024,World Cup - Qualification Europe,10,5,3,2,21,11,5,10,18
+Czechia,770,2025/26,2025,Friendlies,2,1,1,0,2,1,1,1,4
+Côte d'Ivoire,1501,2022/23,2022,World Cup - Qualification Africa,6,4,1,1,10,3,3,7,13
+Côte d'Ivoire,1501,2022/23,2022,Friendlies,6,3,0,3,11,9,1,2,9
+Côte d'Ivoire,1501,2022/23,2022,African Nations Championship,4,1,1,2,3,3,1,0,4
+Côte d'Ivoire,1501,2023/24,2023,Africa Cup of Nations - Qualification,6,4,1,1,9,5,3,4,13
+Côte d'Ivoire,1501,2023/24,2023,Friendlies,2,0,2,0,2,2,0,0,2
+Côte d'Ivoire,1501,2023/24,2023,World Cup - Qualification Africa,10,8,2,0,25,0,10,25,26
+Côte d'Ivoire,1501,2023/24,2023,Africa Cup of Nations,7,4,1,2,8,8,2,0,13
+Côte d'Ivoire,1501,2024/25,2024,Friendlies,3,2,1,0,9,4,0,5,7
+Côte d'Ivoire,1501,2024/25,2024,African Nations Championship - Qualification,2,1,0,1,2,2,1,0,3
+Côte d'Ivoire,1501,2025/26,2025,Africa Cup of Nations - Qualification,6,4,0,2,12,3,3,9,12
+Côte d'Ivoire,1501,2025/26,2025,Africa Cup of Nations,5,3,1,1,10,6,2,4,10
+Côte d'Ivoire,1501,2025/26,2025,Friendlies,4,1,1,2,2,2,2,0,4
+Ecuador,2382,2022/23,2022,World Cup - Qualification South America,18,7,5,6,27,19,6,8,26
+Ecuador,2382,2022/23,2022,World Cup,3,1,1,1,4,3,1,1,4
+Ecuador,2382,2022/23,2022,Friendlies,6,2,4,0,2,0,6,2,10
+Ecuador,2382,2023/24,2023,Friendlies,5,4,0,1,10,6,1,4,12
+Ecuador,2382,2024/25,2024,Copa America,4,1,2,1,5,4,1,1,5
+Ecuador,2382,2024/25,2024,Friendlies,5,3,0,2,7,5,1,2,9
+Ecuador,2382,2025/26,2025,Friendlies,4,1,3,0,4,2,2,2,6
+Egypt,32,2022/23,2022,World Cup - Qualification Africa,8,5,2,1,11,5,4,6,17
+Egypt,32,2022/23,2022,Friendlies,4,3,0,1,9,5,2,4,9
+Egypt,32,2023/24,2023,Africa Cup of Nations - Qualification,6,5,0,1,10,3,4,7,15
+Egypt,32,2023/24,2023,Friendlies,4,2,1,1,6,4,2,2,7
+Egypt,32,2023/24,2023,World Cup - Qualification Africa,10,8,2,0,20,2,8,18,26
+Egypt,32,2023/24,2023,Africa Cup of Nations,4,0,4,0,7,7,0,0,4
+Egypt,32,2024/25,2024,Friendlies,3,2,0,1,5,4,2,1,6
+Egypt,32,2024/25,2024,African Nations Championship - Qualification,2,0,1,1,2,4,0,-2,1
+Egypt,32,2025/26,2025,Africa Cup of Nations - Qualification,6,4,2,0,12,2,4,10,14
+Egypt,32,2025/26,2025,Africa Cup of Nations,7,4,2,1,9,5,3,4,14
+Egypt,32,2025/26,2025,Arab Cup,3,0,2,1,2,5,0,-3,2
+Egypt,32,2025/26,2025,Friendlies,5,3,1,1,7,4,2,3,10
+England,10,2022/23,2022,Friendlies,2,2,0,0,5,1,1,4,6
+England,10,2022/23,2022,UEFA Nations League,6,0,3,3,4,10,1,-6,3
+England,10,2022/23,2022,World Cup,5,3,1,1,13,4,3,9,10
+England,10,2023/24,2023,Euro Championship - Qualification,8,6,2,0,22,4,4,18,20
+England,10,2023/24,2023,Friendlies,2,2,0,0,4,1,1,3,6
+England,10,2024/25,2024,Euro Championship,7,3,3,1,8,6,2,2,12
+England,10,2024/25,2024,Friendlies,4,1,1,2,5,4,1,1,4
+England,10,2024/25,2024,UEFA Nations League,6,5,0,1,16,3,4,13,15
+England,10,2024/25,2024,World Cup - Qualification Europe,8,8,0,0,22,0,8,22,24
+England,10,2025/26,2025,Friendlies,2,1,0,1,4,3,1,1,3
+France,2,2022/23,2022,Friendlies,2,2,0,0,7,1,1,6,6
+France,2,2022/23,2022,UEFA Nations League,6,1,2,3,5,7,1,-2,5
+France,2,2022/23,2022,World Cup,7,5,1,1,16,8,1,8,16
+France,2,2023/24,2023,Euro Championship - Qualification,8,7,1,0,29,3,6,26,22
+France,2,2023/24,2023,Friendlies,2,1,0,1,5,3,0,2,3
+France,2,2024/25,2024,Euro Championship,6,2,3,1,4,3,4,1,9
+France,2,2024/25,2024,Friendlies,4,2,1,1,6,4,2,2,7
+France,2,2024/25,2024,UEFA Nations League,10,6,1,3,20,13,4,7,19
+France,2,2024/25,2024,World Cup - Qualification Europe,6,5,1,0,16,4,3,12,16
+Germany,25,2022/23,2022,Friendlies,3,2,1,0,4,1,2,3,7
+Germany,25,2022/23,2022,UEFA Nations League,6,1,4,1,11,9,0,2,7
+Germany,25,2022/23,2022,World Cup,3,1,1,1,6,5,0,1,4
+Germany,25,2023/24,2023,Friendlies,11,3,2,6,17,22,1,-5,11
+Germany,25,2024/25,2024,Euro Championship,5,3,1,1,11,4,2,7,10
+Germany,25,2024/25,2024,Friendlies,4,3,1,0,6,2,2,4,10
+Germany,25,2024/25,2024,UEFA Nations League,10,5,3,2,24,12,3,12,18
+Germany,25,2024/25,2024,World Cup - Qualification Europe,6,5,0,1,16,3,4,13,15
+Ghana,1504,2022/23,2022,World Cup - Qualification Africa,8,4,3,1,8,4,4,4,15
+Ghana,1504,2022/23,2022,Friendlies,5,2,0,3,4,8,2,-4,6
+Ghana,1504,2022/23,2022,World Cup,3,1,0,2,5,7,0,-2,3
+Ghana,1504,2022/23,2022,Kirin Cup,1,0,0,1,1,4,0,-3,0
+Ghana,1504,2022/23,2022,African Nations Championship,3,1,0,2,4,5,0,-1,3
+Ghana,1504,2023/24,2023,Africa Cup of Nations - Qualification,6,3,3,0,8,3,3,5,12
+Ghana,1504,2023/24,2023,Friendlies,3,1,0,2,3,7,0,-4,3
+Ghana,1504,2023/24,2023,World Cup - Qualification Africa,10,8,1,1,23,6,6,17,25
+Ghana,1504,2023/24,2023,Africa Cup of Nations,3,0,2,1,5,6,0,-1,2
+Ghana,1504,2024/25,2024,Friendlies,3,0,2,1,3,4,1,-1,2
+Ghana,1504,2024/25,2024,African Nations Championship - Qualification,2,0,1,1,1,3,1,-2,1
+Ghana,1504,2025/26,2025,Africa Cup of Nations - Qualification,6,0,3,3,3,7,1,-4,3
+Ghana,1504,2025/26,2025,Friendlies,4,1,0,3,5,5,1,0,3
+Haiti,2386,2022/23,2022,World Cup - Qualification CONCACAF,5,3,0,2,13,4,3,9,9
+Haiti,2386,2022/23,2022,Friendlies,1,0,0,1,1,2,0,-1,0
+Haiti,2386,2022/23,2022,CONCACAF Nations League,6,5,1,0,22,5,3,17,16
+Haiti,2386,2023/24,2023,CONCACAF Gold Cup,3,1,0,2,4,6,0,-2,3
+Haiti,2386,2023/24,2023,CONCACAF Nations League,4,0,3,1,5,6,1,-1,3
+Haiti,2386,2024/25,2024,Friendlies,1,0,1,0,1,1,0,0,1
+Haiti,2386,2024/25,2024,CONCACAF Nations League,6,6,0,0,29,5,3,24,18
+Haiti,2386,2025/26,2025,Friendlies,1,1,0,0,3,0,1,3,3
+Haiti,2386,2025/26,2025,CONCACAF Gold Cup,3,0,1,2,2,4,0,-2,1
+IR Iran,22,2022/23,2022,World Cup - Qualification Asia,18,14,1,3,49,8,12,41,43
+IR Iran,22,2022/23,2022,World Cup,3,1,0,2,4,7,1,-3,3
+IR Iran,22,2022/23,2022,Friendlies,4,2,1,1,4,3,2,1,7
+IR Iran,22,2023/24,2023,Friendlies,6,5,1,0,15,3,3,12,16
+IR Iran,22,2023/24,2023,CAFA Nations Cup,3,3,0,0,12,2,1,10,9
+IR Iran,22,2023/24,2023,Asian Cup,6,4,1,1,12,7,1,5,13
+IR Iran,22,2024/25,2024,Friendlies,2,2,0,0,7,1,1,6,6
+IR Iran,22,2025/26,2025,Friendlies,4,1,2,1,3,2,3,1,5
+IR Iran,22,2025/26,2025,CAFA Nations Cup,4,2,1,1,8,4,1,4,7
+Iraq,1567,2022/23,2022,World Cup - Qualification Asia,18,6,8,4,20,16,7,4,26
+Iraq,1567,2022/23,2022,Friendlies,7,4,2,1,7,6,4,1,14
+Iraq,1567,2023/24,2023,Gulf Cup of Nations,5,4,1,0,12,3,3,9,13
+Iraq,1567,2023/24,2023,Friendlies,4,0,2,2,2,5,1,-3,2
+Iraq,1567,2023/24,2023,Asian Cup,4,3,0,1,10,7,0,3,9
+Iraq,1567,2023/24,2023,King's Cup,2,0,2,0,4,4,0,0,2
+Iraq,1567,2024/25,2024,Friendlies,1,0,0,1,0,1,0,-1,0
+Iraq,1567,2024/25,2024,Gulf Cup of Nations,3,1,0,2,2,5,1,-3,3
+Iraq,1567,2025/26,2025,King's Cup,2,2,0,0,3,1,1,2,6
+Iraq,1567,2025/26,2025,Arab Cup,4,2,0,2,4,4,1,0,6
+Japan,12,2022/23,2022,World Cup - Qualification Asia,18,15,1,2,58,6,12,52,46
+Japan,12,2022/23,2022,World Cup,4,2,1,1,5,4,0,1,7
+Japan,12,2022/23,2022,Friendlies,5,2,1,2,7,4,2,3,7
+Japan,12,2022/23,2022,Kirin Cup,2,1,0,1,4,4,0,0,3
+Japan,12,2023/24,2023,Friendlies,8,6,1,1,26,8,2,18,19
+Japan,12,2023/24,2023,Asian Cup,5,3,0,2,12,8,0,4,9
+Japan,12,2024/25,2024,Friendlies,2,2,0,0,11,1,1,10,6
+Japan,12,2025/26,2025,Friendlies,6,3,2,1,10,6,3,4,11
+Japan,12,2025/26,2025,EAFF E-1 Football Championship,3,3,0,0,9,1,2,8,9
+Jordan,1548,2022/23,2022,World Cup - Qualification Asia,8,4,2,2,13,3,5,10,14
+Jordan,1548,2022/23,2022,Friendlies,6,4,0,2,10,6,3,4,12
+Jordan,1548,2022/23,2022,Asian Cup - Qualification,3,3,0,0,6,0,3,6,9
+Jordan,1548,2023/24,2023,Friendlies,8,2,1,5,13,19,1,-6,7
+Jordan,1548,2023/24,2023,Asian Cup,7,4,1,2,13,8,3,5,13
+Jordan,1548,2024/25,2024,Friendlies,4,2,1,1,5,8,1,-3,7
+Jordan,1548,2025/26,2025,Friendlies,9,1,4,4,8,11,4,-3,7
+Jordan,1548,2025/26,2025,Arab Cup,6,5,0,1,12,5,3,7,15
+Korea Republic,17,2022/23,2022,World Cup - Qualification Asia,17,12,4,1,35,4,13,31,40
+Korea Republic,17,2022/23,2022,Friendlies,9,6,2,1,22,11,4,11,20
+Korea Republic,17,2022/23,2022,World Cup,4,1,1,2,5,8,1,-3,4
+Korea Republic,17,2023/24,2023,Friendlies,8,3,3,2,15,6,4,9,12
+Korea Republic,17,2023/24,2023,Asian Cup,6,2,3,1,11,10,0,1,9
+Korea Republic,17,2024/25,2024,Friendlies,1,1,0,0,1,0,1,1,3
+Korea Republic,17,2025/26,2025,Friendlies,6,4,1,1,9,7,4,2,13
+Korea Republic,17,2025/26,2025,EAFF E-1 Football Championship,3,2,0,1,5,1,2,4,6
+Mexico,16,2022/23,2022,World Cup - Qualification CONCACAF,14,8,4,2,17,8,8,9,28
+Mexico,16,2022/23,2022,Friendlies,9,3,2,4,10,10,4,0,11
+Mexico,16,2022/23,2022,World Cup,3,1,1,1,2,3,1,-1,4
+Mexico,16,2022/23,2022,CONCACAF Nations League,6,3,2,1,9,6,3,3,11
+Mexico,16,2023/24,2023,Friendlies,8,2,5,1,16,13,2,3,11
+Mexico,16,2023/24,2023,CONCACAF Gold Cup,6,5,0,1,13,2,4,11,15
+Mexico,16,2023/24,2023,CONCACAF Nations League,4,2,0,2,5,4,2,1,6
+Mexico,16,2024/25,2024,Copa America,3,1,1,1,1,1,2,0,4
+Mexico,16,2024/25,2024,Friendlies,6,3,1,2,8,7,4,1,10
+Mexico,16,2024/25,2024,CONCACAF Nations League,4,3,0,1,8,3,2,5,9
+Mexico,16,2025/26,2025,Friendlies,8,1,4,3,7,13,3,-6,7
+Mexico,16,2025/26,2025,CONCACAF Gold Cup,6,5,1,0,10,3,4,7,16
+Morocco,31,2022/23,2022,World Cup - Qualification Africa,8,7,1,0,25,3,5,22,22
+Morocco,31,2022/23,2022,World Cup,7,3,2,2,6,5,4,1,11
+Morocco,31,2022/23,2022,Friendlies,5,2,2,1,7,5,3,2,8
+Morocco,31,2023/24,2023,Africa Cup of Nations - Qualification,4,3,0,1,8,3,2,5,9
+Morocco,31,2023/24,2023,Friendlies,5,2,3,0,4,2,3,2,9
+Morocco,31,2023/24,2023,World Cup - Qualification Africa,8,8,0,0,22,2,6,20,24
+Morocco,31,2023/24,2023,Africa Cup of Nations,4,2,1,1,5,3,2,2,7
+Morocco,31,2024/25,2024,Friendlies,3,2,1,0,4,1,2,3,7
+Morocco,31,2024/25,2024,African Nations Championship,7,5,1,1,13,6,2,7,16
+Morocco,31,2025/26,2025,Africa Cup of Nations - Qualification,6,6,0,0,26,2,4,24,18
+Morocco,31,2025/26,2025,Africa Cup of Nations,7,5,2,0,12,1,6,11,17
+Morocco,31,2025/26,2025,Friendlies,5,5,0,0,9,0,5,9,15
+Morocco,31,2025/26,2025,Arab Cup,6,5,1,0,11,3,4,8,16
+Netherlands,1118,2022/23,2022,Friendlies,2,1,1,0,5,3,0,2,4
+Netherlands,1118,2022/23,2022,UEFA Nations League,8,5,1,2,18,13,2,5,16
+Netherlands,1118,2022/23,2022,World Cup,5,3,2,0,10,4,2,6,11
+Netherlands,1118,2023/24,2023,Euro Championship - Qualification,8,6,0,2,17,7,5,10,18
+Netherlands,1118,2024/25,2024,Euro Championship,6,3,1,2,10,7,2,3,10
+Netherlands,1118,2024/25,2024,Friendlies,4,3,0,1,13,2,3,11,9
+Netherlands,1118,2024/25,2024,UEFA Nations League,8,2,5,1,18,12,1,6,11
+Netherlands,1118,2024/25,2024,World Cup - Qualification Europe,8,6,2,0,27,4,5,23,20
+New Zealand,4673,2022/23,2022,Friendlies,5,0,1,4,1,7,1,-6,1
+New Zealand,4673,2022/23,2022,World Cup - Qualification Oceania,5,5,0,0,18,1,4,17,15
+New Zealand,4673,2022/23,2022,World Cup - Qualification Intercontinental Play-offs,1,0,0,1,0,1,0,-1,0
+New Zealand,4673,2023/24,2023,Friendlies,7,1,3,3,5,11,1,-6,6
+New Zealand,4673,2024/25,2024,OFC Nations Cup,4,4,0,0,15,0,4,15,12
+New Zealand,4673,2024/25,2024,Friendlies,5,1,2,2,5,5,2,0,5
+New Zealand,4673,2025/26,2025,Friendlies,8,1,1,6,5,12,1,-7,4
+Norway,1090,2022/23,2022,Friendlies,4,3,1,0,14,2,2,12,10
+Norway,1090,2022/23,2022,UEFA Nations League,6,3,1,2,7,7,2,0,10
+Norway,1090,2023/24,2023,Euro Championship - Qualification,8,3,2,3,14,12,1,2,11
+Norway,1090,2023/24,2023,Friendlies,2,2,0,0,8,0,2,8,6
+Norway,1090,2024/25,2024,Friendlies,4,1,1,2,6,6,1,0,4
+Norway,1090,2024/25,2024,UEFA Nations League,6,4,1,1,15,7,3,8,13
+Norway,1090,2024/25,2024,World Cup - Qualification Europe,8,8,0,0,37,5,4,32,24
+Norway,1090,2025/26,2025,Friendlies,2,1,1,0,2,1,1,1,4
+Panama,11,2022/23,2022,World Cup - Qualification CONCACAF,20,11,4,5,38,21,8,17,37
+Panama,11,2022/23,2022,Friendlies,7,1,4,2,8,12,1,-4,7
+Panama,11,2022/23,2022,CONCACAF Nations League,6,3,1,2,8,3,4,5,10
+Panama,11,2023/24,2023,Friendlies,4,2,1,1,6,6,0,0,7
+Panama,11,2023/24,2023,CONCACAF Gold Cup,6,3,2,1,11,6,1,5,11
+Panama,11,2023/24,2023,CONCACAF Nations League,8,5,1,2,15,7,3,8,16
+Panama,11,2024/25,2024,Copa America,4,2,0,2,6,10,0,-4,6
+Panama,11,2024/25,2024,Friendlies,3,0,0,3,1,5,0,-4,0
+Panama,11,2024/25,2024,CONCACAF Nations League,4,2,1,1,5,4,2,1,7
+Panama,11,2025/26,2025,Friendlies,1,0,0,1,1,6,0,-5,0
+Panama,11,2025/26,2025,CONCACAF Gold Cup,4,3,1,0,11,4,1,7,10
+Paraguay,2380,2022/23,2022,World Cup - Qualification South America,18,3,7,8,12,26,4,-14,16
+Paraguay,2380,2022/23,2022,Friendlies,7,2,2,3,5,9,3,-4,8
+Paraguay,2380,2023/24,2023,Friendlies,2,1,0,1,4,3,1,1,3
+Paraguay,2380,2024/25,2024,Copa America,3,0,0,3,3,8,0,-5,0
+Paraguay,2380,2024/25,2024,Friendlies,3,1,1,1,1,3,2,-2,4
+Paraguay,2380,2025/26,2025,Friendlies,4,1,1,2,5,7,0,-2,4
+Portugal,27,2022/23,2022,UEFA Nations League,6,3,1,2,11,3,3,8,10
+Portugal,27,2022/23,2022,World Cup,5,3,0,2,12,6,1,6,9
+Portugal,27,2022/23,2022,Friendlies,1,1,0,0,4,0,1,4,3
+Portugal,27,2023/24,2023,Euro Championship - Qualification,10,10,0,0,36,2,9,34,30
+Portugal,27,2024/25,2024,Euro Championship,5,2,2,1,5,3,3,2,8
+Portugal,27,2024/25,2024,Friendlies,5,3,0,2,13,8,1,5,9
+Portugal,27,2024/25,2024,UEFA Nations League,10,6,3,1,22,11,1,11,21
+Portugal,27,2024/25,2024,World Cup - Qualification Europe,6,4,1,1,20,7,2,13,13
+Qatar,1569,2022/23,2022,World Cup - Qualification Asia,8,7,1,0,18,1,7,17,22
+Qatar,1569,2022/23,2022,Friendlies,11,6,4,1,15,10,4,5,22
+Qatar,1569,2022/23,2022,World Cup,3,0,0,3,1,7,0,-6,0
+Qatar,1569,2023/24,2023,Gulf Cup of Nations,4,1,1,2,5,5,1,0,4
+Qatar,1569,2023/24,2023,CONCACAF Gold Cup,4,1,1,2,3,7,1,-4,4
+Qatar,1569,2023/24,2023,Friendlies,6,2,2,2,7,8,2,-1,8
+Qatar,1569,2023/24,2023,Asian Cup,7,6,1,0,14,5,3,9,19
+Qatar,1569,2024/25,2024,Friendlies,1,0,0,1,1,2,0,-1,0
+Qatar,1569,2024/25,2024,Gulf Cup of Nations,3,0,2,1,3,4,0,-1,2
+Qatar,1569,2025/26,2025,Friendlies,4,0,1,3,4,9,0,-5,1
+Qatar,1569,2025/26,2025,Arab Cup,3,0,1,2,1,5,0,-4,1
+Saudi Arabia,23,2022/23,2022,World Cup - Qualification Asia,18,13,4,1,34,10,12,24,43
+Saudi Arabia,23,2022/23,2022,World Cup,3,1,0,2,3,5,0,-2,3
+Saudi Arabia,23,2022/23,2022,Friendlies,10,2,5,3,4,5,5,-1,11
+Saudi Arabia,23,2023/24,2023,Gulf Cup of Nations,3,1,0,2,3,4,1,-1,3
+Saudi Arabia,23,2023/24,2023,Friendlies,6,0,1,5,6,13,0,-7,1
+Saudi Arabia,23,2023/24,2023,Asian Cup,4,2,2,0,5,2,2,3,8
+Saudi Arabia,23,2024/25,2024,Friendlies,4,3,1,0,6,1,3,5,10
+Saudi Arabia,23,2024/25,2024,Gulf Cup of Nations,4,2,0,2,9,8,0,1,6
+Saudi Arabia,23,2025/26,2025,CONCACAF Gold Cup,4,1,1,2,2,4,1,-2,4
+Saudi Arabia,23,2025/26,2025,Friendlies,5,3,1,1,6,4,2,2,10
+Saudi Arabia,23,2025/26,2025,Arab Cup,5,3,0,2,7,5,0,2,9
+Scotland,1108,2022/23,2022,Friendlies,3,0,2,1,4,5,0,-1,2
+Scotland,1108,2022/23,2022,UEFA Nations League,6,4,1,1,11,5,3,6,13
+Scotland,1108,2023/24,2023,Euro Championship - Qualification,8,5,2,1,17,8,4,9,17
+Scotland,1108,2023/24,2023,Friendlies,2,0,0,2,2,7,0,-5,0
+Scotland,1108,2024/25,2024,Euro Championship,3,0,1,2,2,7,0,-5,1
+Scotland,1108,2024/25,2024,Friendlies,4,1,1,2,4,7,1,-3,4
+Scotland,1108,2024/25,2024,UEFA Nations League,8,3,1,4,8,11,3,-3,10
+Scotland,1108,2024/25,2024,World Cup - Qualification Europe,6,4,1,1,13,7,2,6,13
+Scotland,1108,2025/26,2025,Friendlies,2,1,0,1,5,3,1,2,3
+Senegal,13,2022/23,2022,World Cup - Qualification Africa,8,6,1,1,16,5,3,11,19
+Senegal,13,2022/23,2022,World Cup,4,2,0,2,5,7,0,-2,6
+Senegal,13,2022/23,2022,COSAFA Cup,3,0,2,1,5,6,0,-1,2
+Senegal,13,2022/23,2022,Friendlies,2,1,1,0,3,1,1,2,4
+Senegal,13,2022/23,2022,African Nations Championship,6,4,1,1,6,1,5,5,13
+Senegal,13,2023/24,2023,Africa Cup of Nations - Qualification,6,4,2,0,12,4,2,8,14
+Senegal,13,2023/24,2023,Friendlies,3,2,0,1,5,3,1,2,6
+Senegal,13,2023/24,2023,World Cup - Qualification Africa,10,7,3,0,22,3,8,19,24
+Senegal,13,2023/24,2023,Africa Cup of Nations,4,3,1,0,9,2,2,7,10
+Senegal,13,2024/25,2024,Friendlies,3,3,0,0,5,0,3,5,9
+Senegal,13,2024/25,2024,African Nations Championship - Qualification,2,1,1,0,4,1,1,3,4
+Senegal,13,2024/25,2024,African Nations Championship,6,2,4,0,5,3,3,2,10
+Senegal,13,2025/26,2025,Africa Cup of Nations - Qualification,6,5,1,0,10,1,5,9,16
+Senegal,13,2025/26,2025,Africa Cup of Nations,7,5,1,1,12,5,4,7,16
+Senegal,13,2025/26,2025,Friendlies,8,2,2,4,15,10,2,5,8
+South Africa,1531,2022/23,2022,World Cup - Qualification Africa,6,4,1,1,6,2,4,4,13
+South Africa,1531,2022/23,2022,Friendlies,6,3,2,1,8,7,3,1,11
+South Africa,1531,2022/23,2022,COSAFA Cup,3,2,1,0,4,2,1,2,7
+South Africa,1531,2023/24,2023,Africa Cup of Nations - Qualification,4,2,1,1,7,6,0,1,7
+South Africa,1531,2023/24,2023,COSAFA Cup,5,2,2,1,6,5,1,1,8
+South Africa,1531,2023/24,2023,Friendlies,4,1,3,0,2,1,3,1,6
+South Africa,1531,2023/24,2023,World Cup - Qualification Africa,9,5,3,1,15,6,4,9,18
+South Africa,1531,2023/24,2023,Africa Cup of Nations,7,2,4,1,7,3,5,4,10
+South Africa,1531,2024/25,2024,Friendlies,3,0,3,0,4,4,1,0,3
+South Africa,1531,2024/25,2024,COSAFA Cup,3,1,2,0,2,1,2,1,5
+South Africa,1531,2024/25,2024,African Nations Championship - Qualification,4,2,1,1,6,3,1,3,7
+South Africa,1531,2024/25,2024,African Nations Championship,4,1,3,0,6,5,1,1,6
+South Africa,1531,2025/26,2025,Africa Cup of Nations - Qualification,6,4,2,0,16,5,3,11,14
+South Africa,1531,2025/26,2025,Africa Cup of Nations,4,2,0,2,6,6,0,0,6
+South Africa,1531,2025/26,2025,COSAFA Cup,5,2,1,2,5,5,2,0,7
+South Africa,1531,2025/26,2025,Friendlies,4,3,1,0,6,1,3,5,10
+Spain,9,2022/23,2022,Friendlies,3,3,0,0,10,2,1,8,9
+Spain,9,2022/23,2022,UEFA Nations League,8,4,3,1,10,6,4,4,15
+Spain,9,2022/23,2022,World Cup,4,1,2,1,9,3,2,6,5
+Spain,9,2023/24,2023,Euro Championship - Qualification,8,7,0,1,25,5,4,20,21
+Spain,9,2024/25,2024,Euro Championship,7,7,0,0,15,4,3,11,21
+Spain,9,2024/25,2024,Friendlies,4,2,1,1,13,5,1,8,7
+Spain,9,2024/25,2024,UEFA Nations League,10,6,4,0,25,15,3,10,22
+Spain,9,2024/25,2024,World Cup - Qualification Europe,6,5,1,0,21,2,5,19,16
+Sweden,5,2022/23,2022,UEFA Nations League,6,1,1,4,7,11,1,-4,4
+Sweden,5,2022/23,2022,Friendlies,2,2,0,0,4,1,1,3,6
+Sweden,5,2023/24,2023,Euro Championship - Qualification,8,3,1,4,14,12,3,2,10
+Sweden,5,2023/24,2023,Friendlies,4,4,0,0,11,3,1,8,12
+Sweden,5,2024/25,2024,Friendlies,5,2,0,3,6,11,1,-5,6
+Sweden,5,2024/25,2024,UEFA Nations League,6,5,1,0,19,4,3,15,16
+Sweden,5,2024/25,2024,World Cup - Qualification Europe,8,2,2,4,10,15,0,-5,8
+Sweden,5,2025/26,2025,Friendlies,4,3,0,1,11,5,1,6,9
+Switzerland,15,2022/23,2022,Friendlies,3,0,1,2,2,5,0,-3,1
+Switzerland,15,2022/23,2022,UEFA Nations League,6,3,0,3,6,9,1,-3,9
+Switzerland,15,2022/23,2022,World Cup,4,2,0,2,5,9,1,-4,6
+Switzerland,15,2023/24,2023,Euro Championship - Qualification,10,4,5,1,22,11,3,11,17
+Switzerland,15,2024/25,2024,Euro Championship,5,2,3,0,8,4,1,4,9
+Switzerland,15,2024/25,2024,Friendlies,4,2,2,0,6,1,3,5,8
+Switzerland,15,2024/25,2024,UEFA Nations League,6,0,2,4,6,14,0,-8,2
+Switzerland,15,2024/25,2024,World Cup - Qualification Europe,6,4,2,0,14,2,4,12,14
+Switzerland,15,2025/26,2025,Friendlies,4,3,1,0,12,4,1,8,10
+Tunisia,28,2022/23,2022,World Cup - Qualification Africa,8,5,2,1,12,2,6,10,17
+Tunisia,28,2022/23,2022,World Cup,3,1,1,1,1,1,2,0,4
+Tunisia,28,2022/23,2022,Kirin Cup,2,2,0,0,5,0,2,5,6
+Tunisia,28,2022/23,2022,Friendlies,2,1,0,1,2,5,1,-3,3
+Tunisia,28,2023/24,2023,Africa Cup of Nations - Qualification,6,4,1,1,11,1,5,10,13
+Tunisia,28,2023/24,2023,Friendlies,4,1,1,2,4,8,0,-4,4
+Tunisia,28,2023/24,2023,World Cup - Qualification Africa,10,9,1,0,22,0,10,22,28
+Tunisia,28,2023/24,2023,Africa Cup of Nations,3,0,2,1,1,2,1,-1,2
+Tunisia,28,2024/25,2024,Friendlies,4,1,3,0,2,0,4,2,6
+Tunisia,28,2025/26,2025,Africa Cup of Nations - Qualification,6,3,1,2,7,6,1,1,10
+Tunisia,28,2025/26,2025,Africa Cup of Nations,4,1,2,1,7,6,0,1,5
+Tunisia,28,2025/26,2025,Friendlies,7,2,2,3,7,10,1,-3,8
+Tunisia,28,2025/26,2025,Arab Cup,3,1,1,1,5,3,1,2,4
+Türkiye,777,2022/23,2022,Friendlies,3,2,0,1,6,5,0,1,6
+Türkiye,777,2022/23,2022,UEFA Nations League,6,4,1,1,18,5,4,13,13
+Türkiye,777,2023/24,2023,Euro Championship - Qualification,8,5,2,1,14,7,3,7,17
+Türkiye,777,2023/24,2023,Friendlies,2,1,0,1,5,6,0,-1,3
+Türkiye,777,2024/25,2024,Euro Championship,5,3,0,2,8,8,0,0,9
+Türkiye,777,2024/25,2024,Friendlies,4,0,1,3,2,9,1,-7,1
+Türkiye,777,2024/25,2024,UEFA Nations League,8,5,2,1,15,7,4,8,17
+Türkiye,777,2024/25,2024,World Cup - Qualification Europe,8,6,1,1,19,12,3,7,19
+Türkiye,777,2025/26,2025,Friendlies,2,1,0,1,2,2,0,0,3
+USA,2384,2022/23,2022,World Cup - Qualification CONCACAF,14,7,4,3,21,10,6,11,25
+USA,2384,2022/23,2022,World Cup,4,1,2,1,3,4,2,-1,5
+USA,2384,2022/23,2022,CONCACAF Nations League,6,5,1,0,19,2,4,17,16
+USA,2384,2022/23,2022,Friendlies,4,1,2,1,3,2,3,1,5
+USA,2384,2023/24,2023,Friendlies,7,3,2,2,14,6,4,8,11
+USA,2384,2023/24,2023,CONCACAF Gold Cup,5,2,3,0,16,4,2,12,9
+USA,2384,2023/24,2023,CONCACAF Nations League,4,3,0,1,9,3,2,6,9
+USA,2384,2024/25,2024,Copa America,3,1,0,2,3,3,1,0,3
+USA,2384,2024/25,2024,Friendlies,7,1,2,4,6,12,1,-6,5
+USA,2384,2024/25,2024,CONCACAF Nations League,4,2,0,2,6,5,1,1,6
+USA,2384,2025/26,2025,Friendlies,10,6,1,3,19,13,2,6,19
+USA,2384,2025/26,2025,CONCACAF Gold Cup,6,4,1,1,13,6,2,7,13
+Uruguay,7,2022/23,2022,World Cup - Qualification South America,18,8,4,6,22,22,8,0,28
+Uruguay,7,2022/23,2022,World Cup,3,1,1,1,2,2,2,0,4
+Uruguay,7,2022/23,2022,Friendlies,5,3,1,1,10,1,4,9,10
+Uruguay,7,2023/24,2023,Friendlies,4,3,1,0,9,3,1,6,10
+Uruguay,7,2024/25,2024,Copa America,6,3,2,1,11,4,3,7,11
+Uruguay,7,2024/25,2024,Friendlies,5,1,3,1,7,4,2,3,6
+Uruguay,7,2025/26,2025,Friendlies,4,2,1,1,4,6,2,-2,7
+Uzbekistan,1568,2022/23,2022,World Cup - Qualification Asia,8,5,0,3,18,9,4,9,15
+Uzbekistan,1568,2022/23,2022,Asian Cup - Qualification,3,3,0,0,9,0,3,9,9
+Uzbekistan,1568,2022/23,2022,Friendlies,6,4,1,1,12,5,3,7,13
+Uzbekistan,1568,2023/24,2023,Friendlies,7,4,2,1,13,9,2,4,14
+Uzbekistan,1568,2023/24,2023,CAFA Nations Cup,4,3,0,1,10,2,2,8,9
+Uzbekistan,1568,2023/24,2023,Asian Cup,5,2,3,0,7,3,2,4,9
+Uzbekistan,1568,2024/25,2024,Friendlies,1,1,0,0,1,0,1,1,3
+Uzbekistan,1568,2025/26,2025,Friendlies,5,2,2,1,5,2,4,3,8
+Uzbekistan,1568,2025/26,2025,CAFA Nations Cup,4,3,1,0,8,2,2,6,10

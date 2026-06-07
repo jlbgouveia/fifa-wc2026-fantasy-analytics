@@ -1,0 +1,5 @@
+# App runtime (what Streamlit Cloud needs to run app.py + analytics.py)
+streamlit==1.58.0
+streamlit-aggrid==1.2.1.post2
+polars==1.41.2
+pandas==3.0.1

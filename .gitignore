@@ -1,0 +1,21 @@
+# Secrets — never commit
+api_football_key.txt
+.env
+*.key
+
+# Caches / generated
+apifootball_cache/
+sofascore_cache/
+__pycache__/
+.ipynb_checkpoints/
+*.log
+*.pyc
+
+# IDE / tooling
+.idea/
+.claude/
+.DS_Store
+
+# Office/LibreOffice lock files
+.~lock.*#
+~$*

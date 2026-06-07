@@ -1,0 +1,7 @@
+# Extra deps for (re)running the data extraction (run_apifootball.py, run_team_stats.py).
+# These hit API-Football and need api_football_key.txt — NOT required just to run the app.
+-r requirements.txt
+requests==2.32.5
+curl_cffi==0.15.0
+rapidfuzz==3.14.5
+Unidecode==1.4.0

@@ -1,0 +1,1249 @@
+player_id,name,country,apifootball_id,confidence,n_rows
+1,Rayan Aït-Nouri,Algeria,21138,high,29
+2,Ramy Bensebaini,Algeria,2194,high,24
+3,Aïssa Mandi,Algeria,1567,high,24
+5,Zinéddine Belaïd,Algeria,4561,high,16
+7,Rafik Belghali,Algeria,303362,high,9
+8,Achref Abada,Algeria,342740,high,10
+9,Mohammed Amoura,Algeria,200139,high,22
+10,Amine Gouiri,Algeria,85041,high,24
+11,Riyad Mahrez,Algeria,635,high,23
+12,Ibrahim Maza,Algeria,380587,high,21
+13,Anis Hadj Moussa,Algeria,326067,high,17
+14,Farès Ghedjemis,Algeria,334915,high,10
+15,Ahmed Benbouali,Algeria,292924,high,13
+18,Luca Zidane,Algeria,732,high,7
+19,Melvin Mastil,Algeria,304229,high,2
+21,Adil Boulbina,Algeria,329163,high,14
+22,Yacine Titraoui,Algeria,327599,high,12
+23,Ramiz Zerrouki,Algeria,129047,high,27
+24,Hicham Boudaoui,Algeria,4399,high,21
+26,Houssem Aouar,Algeria,658,high,19
+27,Farès Chaïbi,Algeria,276670,high,21
+2046,Oussama Benbot,Algeria,4414,high,12
+2047,Samir Chergui,Algeria,20869,high,9
+2048,Mohamed Tougaï,Algeria,4569,high,25
+2049,Nabil Bentaleb,Algeria,409,high,17
+2066,Jaouen Hadjam,Algeria,271539,high,24
+28,Cristian Romero,Argentina,30776,high,20
+30,Nahuel Molina,Argentina,6503,high,24
+31,Nicolás Otamendi,Argentina,624,high,29
+34,Nicolás Tagliafico,Argentina,529,high,20
+38,Lionel Messi,Argentina,154,high,21
+39,Julián Alvarez,Argentina,6009,high,31
+41,Giuliano Simeone,Argentina,323935,high,12
+42,Nico González,Argentina,26315,high,25
+43,José Manuel López,Argentina,295513,high,20
+45,Emiliano Martínez,Argentina,19599,high,22
+46,Gerónimo Rulli,Argentina,47296,high,17
+47,Juan Musso,Argentina,2465,high,14
+48,Leandro Paredes,Argentina,271,high,22
+50,Rodrigo De Paul,Argentina,2472,high,22
+51,Nico Paz,Argentina,350037,high,15
+53,Valentín Barco,Argentina,319572,high,15
+54,Exequiel Palacios,Argentina,6002,high,20
+55,Thiago Almada,Argentina,6067,high,23
+56,Alexis Mac Allister,Argentina,6716,high,24
+57,Enzo Fernández,Argentina,5996,high,29
+1318,Lisandro Martínez,Argentina,2467,high,22
+1320,Facundo Medina,Argentina,6231,high,18
+1323,Gonzalo Montiel,Argentina,2468,high,21
+1325,Leonardo Balerdi,Argentina,6,high,15
+1326,Giovani Lo Celso,Argentina,1578,high,19
+1338,Lautaro Martínez,Argentina,217,high,27
+58,Jordan Bos,Australia,337587,high,17
+60,Alessandro Circati,Australia,348568,high,10
+61,Cameron Burgess,Australia,20457,high,17
+62,Milos Degenek,Australia,2742,high,19
+63,Aziz Behich,Australia,225,high,19
+64,Jason Geria,Australia,33847,high,7
+66,Kai Trewin,Australia,153622,high,14
+67,Lucas Herrington,Australia,426480,high,6
+68,Nestory Irankunda,Australia,338014,high,11
+70,Nishan Velupillay,Australia,312459,high,11
+72,Jacob Italiano,Australia,6808,high,8
+74,Mathew Ryan,Australia,2741,high,19
+75,Paul Izzo,Australia,6870,high,7
+76,Patrick Beach,Australia,353883,high,6
+77,Paul Okon,Australia,441269,high,7
+80,Connor Metcalfe,Australia,6904,high,15
+81,Aiden O'Neill,Australia,7050,high,11
+82,Awer Mabil,Australia,2755,high,17
+83,Ajdin Hrustic,Australia,38123,high,12
+2002,Harry Souttar,Australia,20079,high,13
+2003,Cameron Devlin,Australia,6832,high,18
+2004,Jackson Irvine,Australia,2749,high,16
+2005,Mathew Leckie,Australia,2751,high,14
+2006,Mohamed Touré,Australia,198352,high,12
+2007,Tete Yengi,Australia,296645,high,15
+2050,Cristian Volpato,Australia,342035,high,15
+85,David Alaba,Austria,505,high,23
+86,Philipp Lienhart,Austria,26240,high,19
+87,Alexander Prass,Austria,7327,high,23
+88,Kevin Danso,Austria,25287,high,27
+90,Stefan Posch,Austria,711,high,24
+91,Phillipp Mwene,Austria,25915,high,19
+92,Marco Friedl,Austria,25314,high,11
+93,David Affengruber,Austria,126640,high,16
+94,Michael Svoboda,Austria,7090,high,7
+95,Marko Arnautovic,Austria,18830,high,20
+96,Michael Gregoritsch,Austria,25297,high,19
+97,Sasa Kalajdzic,Austria,7722,high,13
+98,Alexander Schlager,Austria,7525,high,18
+99,Patrick Pentz,Austria,7598,high,14
+101,Florian Wiegele,Austria,221605,high,7
+102,Carney Chukwuemeka,Austria,138935,high,18
+103,Konrad Laimer,Austria,1157,high,26
+104,Alessandro Schöpf,Austria,417,high,16
+105,Florian Grillitsch,Austria,719,high,19
+106,Nicolas Seiwald,Austria,7328,high,23
+107,Marcel Sabitzer,Austria,1159,high,29
+108,Romano Schmid,Austria,7562,high,18
+109,Patrick Wimmer,Austria,126642,high,16
+110,Paul Wanner,Austria,327895,high,19
+111,Xaver Schlager,Austria,1095,high,18
+114,Maxim De Cuyper,Belgium,162007,high,15
+115,Timothy Castagne,Belgium,2920,high,22
+116,Arthur Theate,Belgium,204043,high,21
+117,Thomas Meunier,Belgium,264,high,23
+118,Zeno Debast,Belgium,304228,high,24
+119,Axel Witsel,Belgium,20,high,20
+120,Koni De Winter,Belgium,162141,high,16
+121,Brandon Mechele,Belgium,69,high,14
+122,Joaquin Seys,Belgium,375974,high,13
+123,Nathan Ngoy,Belgium,312964,high,10
+124,Romelu Lukaku,Belgium,907,high,23
+125,Jérémy Doku,Belgium,1422,high,25
+127,Dodi Lukébakio,Belgium,25458,high,17
+128,Alexis Saelemaekers,Belgium,1417,high,19
+129,Charles De Ketelaere,Belgium,147859,high,26
+132,Senne Lammens,Belgium,162511,high,13
+135,Nicolas Raskin,Belgium,2120,high,21
+136,Amadou Onana,Belgium,162714,high,23
+137,Youri Tielemans,Belgium,2926,high,24
+138,Kevin De Bruyne,Belgium,629,high,22
+1522,Thibaut Courtois,Belgium,730,high,24
+1523,Mike Penders,Belgium,340151,high,13
+1524,Hans Vanaken,Belgium,78,high,17
+1525,Matias Fernandez-Pardo,Belgium,340077,high,13
+1526,Leandro Trossard,Belgium,1946,high,32
+1527,Diego Moreira,Belgium,335056,high,19
+139,Sead Kolasinac,Bosnia and Herzegovina,1442,high,21
+140,Amar Dedic,Bosnia and Herzegovina,7318,high,26
+141,Tarik Muharemovic,Bosnia and Herzegovina,271350,high,13
+142,Nikola Katic,Bosnia and Herzegovina,1741,high,15
+143,Stjepan Radeljic,Bosnia and Herzegovina,14301,high,17
+144,Nihad Mujakic,Bosnia and Herzegovina,76867,high,17
+145,Nidal Celik,Bosnia and Herzegovina,395589,high,10
+146,Ermedin Demirovic,Bosnia and Herzegovina,46930,high,21
+147,Edin Dzeko,Bosnia and Herzegovina,790,high,22
+148,Jovo Lukic,Bosnia and Herzegovina,77037,high,11
+149,Haris Tabakovic,Bosnia and Herzegovina,28382,high,22
+150,Esmir Bajraktarevic,Bosnia and Herzegovina,329409,high,22
+151,Samed Bazdar,Bosnia and Herzegovina,314377,high,17
+152,Kerim Alajbegovic,Bosnia and Herzegovina,395559,high,13
+153,Nikola Vasilj,Bosnia and Herzegovina,9026,high,14
+155,Martin Zlomislic,Bosnia and Herzegovina,108370,high,12
+156,Amar Memic,Bosnia and Herzegovina,322101,high,13
+157,Dzenis Burnic,Bosnia and Herzegovina,25129,high,12
+158,Ivan Sunjic,Bosnia and Herzegovina,1324,high,13
+159,Armin Gigovic,Bosnia and Herzegovina,70514,high,21
+160,Ivan Basic,Bosnia and Herzegovina,162222,high,14
+161,Benjamin Tahirovic,Bosnia and Herzegovina,264094,high,22
+162,Amir Hadziahmetovic,Bosnia and Herzegovina,50006,high,20
+1341,Dennis Hadzikadunic,Bosnia and Herzegovina,53517,high,13
+1342,Ermin Mahmic,Bosnia and Herzegovina,340173,high,5
+2067,Mladen Jurkas,Bosnia and Herzegovina,446130,high,3
+164,Gabriel Magalhães,Brazil,22224,high,26
+165,Marquinhos,Brazil,257,high,25
+166,Ibañez,Brazil,30424,high,16
+167,Danilo,Brazil,618,high,24
+168,Douglas Santos,Brazil,24866,high,10
+169,Bremer,Brazil,30497,high,18
+170,Léo Pereira,Brazil,10124,high,21
+173,Vinícius Júnior,Brazil,762,high,28
+174,Matheus Cunha,Brazil,1165,high,26
+176,Gabriel Martinelli,Brazil,127769,high,30
+177,Luiz Henrique,Brazil,265785,high,22
+178,Igor Thiago,Brazil,196156,medium,15
+179,Rayan,Brazil,407806,high,15
+181,Endrick,Brazil,377122,high,23
+182,Ederson,Brazil,617,high,24
+183,Alisson Becker,Brazil,280,high,22
+186,Fabinho,Brazil,299,high,20
+187,Danilo,Brazil,275170,high,15
+188,Casemiro,Brazil,747,high,25
+190,Lucas Paquetá,Brazil,1646,high,22
+1343,Weverton,Brazil,2410,high,24
+1345,Alex Sandro,Brazil,860,high,21
+1346,Wesley,Brazil,349001,high,19
+1361,Bruno Guimarães,Brazil,10135,high,23
+1366,Raphinha,Brazil,1496,high,23
+1369,Neymar,Brazil,276,high,14
+195,João Paulo,Cabo Verde,142016,high,17
+196,Yannick Semedo,Cabo Verde,128007,high,13
+198,Kevin Pina,Cabo Verde,96512,high,18
+199,Steven Moreira,Cabo Verde,22139,high,17
+200,Wagner Pina,Cabo Verde,332056,high,15
+201,Pico,Cabo Verde,69260,high,23
+202,Kelvin Pires,Cabo Verde,268806,high,11
+205,Diney,Cabo Verde,41608,medium,14
+206,Ryan Mendes,Cabo Verde,50270,high,22
+207,Jovane Cabral,Cabo Verde,1494,high,15
+208,Dailon Livramento,Cabo Verde,343287,high,11
+209,Nuno da Costa,Cabo Verde,22265,high,10
+210,Garry Rodrigues,Cabo Verde,44612,high,16
+211,Willy Semedo,Cabo Verde,113580,high,18
+214,Vozinha,Cabo Verde,15304,high,12
+215,CJ dos Santos,Cabo Verde,163200,high,8
+216,Márcio da Rosa,Cabo Verde,41764,high,8
+217,Telmo Arcanjo,Cabo Verde,265556,high,12
+218,Deroy Duarte,Cabo Verde,37435,high,17
+219,Laros Duarte,Cabo Verde,37436,high,11
+1528,Stopira,Cabo Verde,2331,high,12
+1529,Logan Costa,Cabo Verde,21997,high,19
+1530,Jamiro Monteiro,Cabo Verde,50745,high,19
+1531,Hélio Varela,Cabo Verde,291024,high,15
+1532,Gilson Benchimol,Cabo Verde,309182,high,17
+203,Sidny Cabral,Cabo Verde,38792,fallback,3
+220,Richie Laryea,Canada,50816,high,20
+221,Derek Cornelius,Canada,51295,high,21
+223,Joel Waterman,Canada,78494,high,19
+225,Luc De Fougerolles,Canada,327738,high,20
+226,Jonathan David,Canada,8489,high,24
+227,Cyle Larin,Canada,2001,high,27
+228,Tajon Buchanan,Canada,51016,high,22
+229,Liam Millar,Canada,44798,high,20
+230,Tani Oluwaseyi,Canada,351587,high,18
+235,Maxime Crépeau,Canada,51274,high,16
+236,Dayne St. Clair,Canada,51148,high,16
+237,Owen Goodman,Canada,284554,high,12
+238,Ali Ahmed,Canada,362145,high,20
+240,Niko Sigur,Canada,416901,high,17
+241,Nathan Saliba,Canada,294824,high,12
+242,Mathieu Choinière,Canada,50788,high,20
+243,Jonathan Osorio,Canada,50817,high,21
+244,Marcelo Flores,Canada,284061,high,16
+245,Ismaël Koné,Canada,328046,high,24
+1961,Alphonso Davies,Canada,509,high,25
+1963,Alistair Johnston,Canada,78547,high,27
+1964,Moïse Bombito,Canada,407017,high,15
+1966,Alfie Jones,Canada,18938,high,10
+1967,Stephen Eustaquio,Canada,35570,high,24
+1968,Jacob Shaffelburg,Canada,50826,high,21
+1970,Promise David,Canada,313353,high,14
+246,Kevin Castaño,Colombia,289592,high,18
+247,Richard Ríos,Colombia,195104,high,22
+248,Daniel Muñoz,Colombia,13736,high,22
+249,Jhon Lucumí,Colombia,1929,high,17
+250,Dávinson Sánchez,Colombia,168,high,26
+251,Déiver Machado,Colombia,2483,high,16
+252,Johan Mojica,Colombia,64268,high,20
+253,Santiago Arias,Colombia,30,high,15
+256,Luis Díaz,Colombia,2489,high,22
+257,Jhon Córdoba,Colombia,24810,high,13
+259,Luis Suárez,Colombia,47237,high,14
+261,Andrés Gómez,Colombia,345748,high,15
+262,Camilo Vargas,Colombia,2482,high,15
+263,David Ospina,Colombia,313,high,14
+264,Álvaro Montero,Colombia,2481,high,16
+265,Jefferson Lerma,Colombia,2490,high,18
+266,Gustavo Puerta,Colombia,324034,high,12
+267,Juan Fernando Quintero,Colombia,6005,high,20
+268,Jaminton Campaz,Colombia,13376,high,13
+269,Jhon Arias,Colombia,13708,high,28
+270,James Rodríguez,Colombia,517,high,20
+271,Jorge Carrascal,Colombia,5994,high,15
+1374,Yerry Mina,Colombia,2484,high,15
+1379,Willer Ditta,Colombia,13571,high,14
+1385,Juan Portilla,Colombia,13151,high,11
+1396,Cucho Hernández,Colombia,47582,high,16
+272,Aaron Wan-Bissaka,Congo DR,18846,high,17
+273,Arthur Masuaku,Congo DR,18816,high,24
+274,Chancel Mbemba,Congo DR,375,high,16
+275,Axel Tuanzebe,Congo DR,19182,high,12
+276,Joris Kayembe,Congo DR,21098,high,18
+277,Dylan Batubinsika,Congo DR,8445,high,14
+278,Steve Kapuadi,Congo DR,199767,high,12
+281,Yoane Wissa,Congo DR,20649,high,19
+282,Simon Banza,Congo DR,20674,high,23
+283,Cédric Bakambu,Congo DR,3033,high,22
+284,Meschack Elia,Congo DR,3034,high,22
+285,Fiston Mayele,Congo DR,179699,high,21
+287,Nathanaël Mbuku,Congo DR,129670,high,17
+288,Brian Cipenga,Congo DR,279482,high,8
+289,Lionel Mpasi,Congo DR,24012,high,12
+290,Matthieu Epolo,Congo DR,314509,high,8
+291,Timothy Fayulu,Congo DR,48501,high,6
+292,Ngal'ayel Mukau,Congo DR,375598,high,13
+293,Samuel Moutoussamy,Congo DR,21101,high,20
+294,Noah Sadiki,Congo DR,365331,high,19
+295,Charles Pickel,Congo DR,48555,high,15
+296,Edo Kayembe,Congo DR,1424,high,15
+297,Théo Bongonda,Congo DR,8627,high,19
+1556,Gédéon Kalulu,Congo DR,24245,high,12
+1557,Gaël Kakuta,Congo DR,47545,high,15
+1591,Aaron Tshibola,Congo DR,44791,high,10
+324,Petar Sucic,Croatia,348205,high,24
+325,Josip Stanisic,Croatia,125171,high,24
+326,Josip Sutalo,Croatia,14701,high,23
+327,Duje Caleta-Car,Croatia,1902,high,17
+328,Marin Pongracic,Croatia,1084,high,17
+329,Martin Erlic,Croatia,30827,high,14
+330,Luka Vuskovic,Croatia,387521,high,14
+332,Ante Budimir,Croatia,46746,high,17
+333,Andrej Kramaric,Croatia,726,high,17
+334,Ivan Perisic,Croatia,207,high,28
+335,Marco Pasalic,Croatia,2763,high,21
+336,Petar Musa,Croatia,66055,high,17
+337,Igor Matanovic,Croatia,202696,high,17
+338,Dominik Livakovic,Croatia,1305,high,25
+339,Ivor Pandur,Croatia,14268,high,7
+341,Luka Sucic,Croatia,7332,high,23
+342,Toni Fruk,Croatia,284869,high,14
+343,Nikola Moro,Croatia,1322,high,15
+344,Kristijan Jakic,Croatia,14395,high,14
+345,Nikola Vlasic,Croatia,842,high,14
+346,Luka Modric,Croatia,754,high,28
+347,Mario Pasalic,Croatia,260865,high,17
+348,Martin Baturina,Croatia,295026,high,22
+1535,Dominik Kotarski,Croatia,524,high,17
+1536,Josko Gvardiol,Croatia,129033,high,25
+1537,Mateo Kovacic,Croatia,2291,high,29
+350,Tahith Chong,Curaçao,906,high,13
+351,Godfried Roemeratoe,Curaçao,36842,high,13
+352,Leandro Bacuna,Curaçao,18997,high,15
+353,Riechedly Bazoer,Curaçao,37175,high,11
+354,Joshua Brenet,Curaçao,706,high,12
+355,Shurandy Sambo,Curaçao,194645,high,12
+356,Sherel Floranus,Curaçao,36970,high,19
+357,Roshon van Eijma,Curaçao,37066,high,16
+358,Ar'Jany Martha,Curaçao,162199,high,14
+359,Juriën Gaari,Curaçao,36857,high,12
+360,Livano Comenencia,Curaçao,309763,high,13
+361,Tyrese Noslin,Curaçao,406846,high,5
+362,Brandley Kuwas,Curaçao,37272,high,20
+363,Sontje Hansen,Curaçao,161884,high,9
+364,Kenji Gorré,Curaçao,41627,high,17
+365,Jearl Margaritha,Curaçao,195067,high,12
+366,Gervane Kastaneer,Curaçao,38708,high,9
+367,Jeremy Antonisse,Curaçao,163220,high,18
+368,Eloy Room,Curaçao,221,high,8
+369,Trevor Doornbusch,Curaçao,36967,high,8
+370,Tyrick Bodak,Curaçao,214129,high,2
+371,Kevin Felida,Curaçao,37461,high,17
+372,Juninho Bacuna,Curaçao,19047,high,22
+1558,Armando Obispo,Curaçao,228,high,15
+1559,Deveron Fonville,Curaçao,353808,high,5
+1560,Jürgen Locadia,Curaçao,18981,high,7
+373,Denis Visinsky,Czechia,290212,high,12
+374,Ladislav Krejcí,Czechia,66407,high,20
+375,Tomás Holes,Czechia,2252,high,18
+376,David Jurásek,Czechia,128793,high,28
+378,Robin Hranác,Czechia,162964,high,17
+379,Jaroslav Zeleny,Czechia,1237,high,20
+380,Vladimír Coufal,Czechia,1231,high,20
+381,Stepán Chaloupek,Czechia,337740,high,14
+382,Patrik Schick,Czechia,794,high,21
+383,Tomás Chory,Czechia,818,high,21
+384,Mojmír Chytil,Czechia,66275,high,21
+387,Matej Kovár,Czechia,138804,high,20
+388,Lukás Hornícek,Czechia,269349,high,11
+390,Lukás Cerv,Czechia,162194,high,19
+391,Vladimír Darida,Czechia,25348,high,11
+393,Tomás Soucek,Czechia,1243,high,22
+395,Michal Sadílek,Czechia,241,high,18
+396,Lukás Provod,Czechia,66353,high,18
+397,Pavel Sulc,Czechia,66387,high,20
+1400,Jindrich Stanek,Czechia,66347,high,18
+1405,David Zima,Czechia,128772,high,21
+1411,Alexandr Sojka,Czechia,386837,high,11
+1413,David Doudera,Czechia,66214,high,18
+1417,Hugo Sochurek,Czechia,555437,high,2
+1425,Jan Kuchta,Czechia,66340,high,24
+1427,Adam Hlozek,Czechia,66019,high,22
+298,Christ Inao Oulaï,Côte d'Ivoire,474591,high,7
+299,Evan Ndicka,Côte d'Ivoire,1807,high,22
+300,Wilfried Singo,Côte d'Ivoire,30504,high,20
+301,Ousmane Diomande,Côte d'Ivoire,354753,high,25
+302,Odilon Kossounou,Côte d'Ivoire,48119,high,22
+303,Guéla Doué,Côte d'Ivoire,161747,high,17
+304,Emmanuel Agbadou,Côte d'Ivoire,135068,high,20
+305,Ghislain Konan,Côte d'Ivoire,22002,high,20
+307,Yan Diomande,Côte d'Ivoire,513776,high,5
+308,Nicolas Pépé,Côte d'Ivoire,3246,high,20
+309,Elye Wahi,Côte d'Ivoire,162707,high,18
+310,Amad Diallo,Côte d'Ivoire,157997,high,15
+311,Simon Adingra,Côte d'Ivoire,301771,high,24
+312,Evann Guessand,Côte d'Ivoire,137303,high,17
+314,Bazoumana Touré,Côte d'Ivoire,387643,high,8
+316,Alban Lafont,Côte d'Ivoire,30393,high,10
+317,Yahia Fofana,Côte d'Ivoire,64190,high,13
+318,Mohamed Koné,Côte d'Ivoire,277046,high,7
+319,Parfait Guiagon,Côte d'Ivoire,263228,high,10
+320,Jean Michaël Seri,Côte d'Ivoire,3243,high,18
+321,Ibrahim Sangaré,Côte d'Ivoire,22149,high,24
+322,Franck Kessie,Côte d'Ivoire,1642,high,25
+323,Seko Fofana,Côte d'Ivoire,30807,high,26
+1533,Oumar Diakité,Côte d'Ivoire,334429,high,15
+1534,Ange-Yoan Bonny,Côte d'Ivoire,275651,high,13
+2051,Christopher Opéri,Côte d'Ivoire,20836,high,14
+398,Denil Castillo,Ecuador,338045,high,13
+399,Jordy Alcívar,Ecuador,16470,high,16
+400,Pervis Estupiñán,Ecuador,46731,high,22
+403,Ángelo Preciado,Ecuador,2583,high,18
+404,Joel Ordóñez,Ecuador,354027,high,18
+405,Félix Torres,Ecuador,63964,high,19
+407,Jackson Porozo,Ecuador,2575,high,12
+411,Yaimar Medina,Ecuador,306940,high,15
+412,Enner Valencia,Ecuador,35533,high,23
+413,Gonzalo Plata,Ecuador,16369,high,23
+414,John Yeboah,Ecuador,25414,high,12
+415,Kevin Rodríguez,Ecuador,361966,high,21
+416,Alan Minda,Ecuador,280695,high,17
+417,Jordy Caicedo,Ecuador,16590,high,14
+420,Anthony Valencia,Ecuador,198347,high,12
+421,Jeremy Arévalo,Ecuador,350799,high,10
+423,Hernán Galíndez,Ecuador,16380,high,15
+424,Moisés Ramírez,Ecuador,81224,high,14
+425,Gonzalo Valle,Ecuador,16642,high,6
+427,Kendry Páez,Ecuador,406303,high,15
+428,Alan Franco,Ecuador,16360,high,23
+429,Pedro Vite,Ecuador,237078,high,19
+430,Moisés Caicedo,Ecuador,116117,high,23
+1947,Nilson Angulo,Ecuador,311543,high,19
+2052,Piero Hincapié,Ecuador,127817,high,24
+2053,Willian Pacho,Ecuador,16367,high,22
+432,Marwan Attia,Egypt,190575,high,24
+433,Zizo,Egypt,664079,high,0
+434,Hamdi Fathy,Egypt,16813,high,20
+435,Emam Ashour,Egypt,17269,high,24
+436,Mahmoud Saber,Egypt,69196,high,16
+437,Mohamed Abdelmonem,Egypt,196343,high,20
+438,Ahmed Fatouh,Egypt,2649,high,18
+439,Mohamed Hany,Egypt,2654,high,21
+440,Ramy Rabia,Egypt,16805,high,19
+441,Hossam Abdelmaguid,Egypt,269621,high,19
+442,Tarek Alaa,Egypt,550371,high,2
+444,Yasser Ibrahim,Egypt,16804,high,20
+445,Omar Marmoush,Egypt,81573,high,26
+447,Trezeguet,Egypt,2664,high,31
+448,Haissem Hassan,Egypt,20844,high,9
+451,Mohamed El Shenawy,Egypt,16797,high,24
+452,El Mahdy Soliman,Egypt,16831,medium,7
+453,Mostafa Shobeir,Egypt,269174,high,12
+454,Mohamed Alaa,Egypt,550469,high,0
+455,Mohanad Lasheen,Egypt,16841,high,18
+456,Ibrahim Adel,Egypt,70535,high,20
+1592,Karim Hafez,Egypt,2656,high,20
+1593,Nabil Emad Dunga,Egypt,2660,high,15
+1594,Mostafa Zico,Egypt,395075,high,10
+1596,Hamza Abdelkarim,Egypt,550547,high,1
+1597,Mohamed Salah,Egypt,306,high,28
+457,Nico O'Reilly,England,307123,high,21
+459,Tino Livramento,England,158694,high,20
+461,Marc Guéhi,England,67971,high,29
+462,Dan Burn,England,18961,high,16
+463,Ezri Konsa,England,19354,high,21
+466,John Stones,England,626,high,30
+467,Djed Spence,England,19235,high,20
+468,Harry Kane,England,184,high,28
+469,Bukayo Saka,England,1460,high,31
+471,Marcus Rashford,England,909,high,27
+474,Anthony Gordon,England,138787,high,25
+475,Morgan Rogers,England,19170,high,20
+476,Noni Madueke,England,136723,high,25
+477,Jordan Pickford,England,2932,high,21
+478,Dean Henderson,England,19088,high,16
+479,James Trafford,England,162489,high,12
+482,Jordan Henderson,England,292,high,22
+485,Kobbie Mainoo,England,284322,high,29
+486,Elliot Anderson,England,138908,high,20
+488,Declan Rice,England,2937,high,30
+491,Jude Bellingham,England,129718,high,30
+1708,Jarell Quansah,England,158698,high,27
+1709,Reece James,England,19545,high,18
+1710,Eberechi Eze,England,19586,high,23
+1711,Ollie Watkins,England,19366,high,25
+1712,Ivan Toney,England,19974,high,14
+492,Theo Hernández,France,47300,high,21
+493,Maxence Lacroix,France,20995,high,13
+494,Dayot Upamecano,France,1149,high,23
+495,Ibrahima Konaté,France,1145,high,25
+496,Lucas Hernández,France,33,high,23
+498,Lucas Digne,France,2724,high,19
+499,Malo Gusto,France,161907,high,21
+500,Kylian Mbappé,France,278,high,28
+501,Ousmane Dembélé,France,153,high,27
+502,Marcus Thuram,France,21509,high,23
+505,Désiré Doué,France,343027,high,30
+506,Mike Maignan,France,22221,high,24
+508,Brice Samba,France,21628,high,16
+509,N'Golo Kanté,France,2290,high,29
+510,Adrien Rabiot,France,272,high,25
+511,Warren Zaïre-Emery,France,336657,high,31
+512,Manu Koné,France,22147,high,16
+514,Maghnes Akliouche,France,274300,high,19
+515,Aurélien Tchouaméni,France,1271,high,30
+516,Rayan Cherki,France,156477,high,20
+517,Michael Olise,France,19617,high,19
+1428,Robin Risser,France,347211,high,9
+1429,William Saliba,France,22090,high,31
+1430,Jules Koundé,France,1257,high,27
+1431,Bradley Barcola,France,161904,high,27
+1432,Jean-Philippe Mateta,France,25927,high,16
+518,Lennart Karl,Germany,494131,high,10
+519,Angelo Stiller,Germany,137210,high,20
+520,Antonio Rüdiger,Germany,2285,high,28
+521,David Raum,Germany,25158,high,19
+522,Malick Thiaw,Germany,163189,high,19
+523,Jonathan Tah,Germany,972,high,24
+525,Nathaniel Brown,Germany,280074,high,14
+526,Nico Schlotterbeck,Germany,26243,high,23
+527,Waldemar Anton,Germany,25368,high,17
+528,Kai Havertz,Germany,978,high,30
+529,Leroy Sané,Germany,644,high,27
+531,Deniz Undav,Germany,26475,high,16
+532,Nick Woltemade,Germany,158054,high,19
+533,Alexander Nübel,Germany,399,high,14
+534,Oliver Baumann,Germany,702,high,11
+538,Pascal Groß,Germany,18970,high,22
+540,Leon Goretzka,Germany,511,high,22
+542,Joshua Kimmich,Germany,502,high,25
+543,Florian Wirtz,Germany,203224,high,20
+1598,Manuel Neuer,Germany,497,high,20
+1599,Nadiem Amiri,Germany,714,high,14
+1600,Jamal Musiala,Germany,181812,high,22
+1601,Felix Nmecha,Germany,637,high,18
+1602,Aleksandar Pavlovic,Germany,328033,high,18
+1603,Jamie Leweling,Germany,128533,high,16
+1604,Maximilian Beier,Germany,158644,high,17
+565,Benjamin Asare,Ghana,480108,high,3
+1445,Augustine Boakye,Ghana,337426,high,12
+1971,Lawrence Ati Zigi,Ghana,3412,high,17
+1972,Joseph Anang,Ghana,144709,high,11
+1973,Abdul Baba,Ghana,21996,high,17
+1974,Alidu Seidu,Ghana,196187,high,21
+1975,Kojo Peprah Oppong,Ghana,404172,high,13
+1976,Jonas Adjetey,Ghana,369425,high,12
+1977,Abdul Mumin,Ghana,15900,high,11
+1979,Marvin Senaya,Ghana,191240,high,14
+1980,Jerome Opoku,Ghana,137223,high,17
+1981,Gideon Mensah,Ghana,7578,high,17
+1982,Caleb Yirenkyi,Ghana,475575,high,5
+1983,Thomas Partey,Ghana,49,high,26
+1984,Elisha Owusu,Ghana,21010,high,18
+1985,Kwasi Sibo,Ghana,3608,high,9
+1986,Jordan Ayew,Ghana,3428,high,24
+1987,Iñaki Williams,Ghana,47294,high,24
+1988,Ernest Nuamah,Ghana,350856,high,19
+1989,Prince Adu,Ghana,410016,high,13
+1990,Abdul Fatawu,Ghana,303467,high,24
+1991,Christopher Bonsu Baah,Ghana,411800,high,11
+1992,Antoine Semenyo,Ghana,19281,high,26
+1993,Brandon Thomas-Asante,Ghana,82090,high,15
+1994,Kamaldeen Sulemana,Ghana,199837,high,20
+2068,Derrick Luckassen,Ghana,25341,high,17
+569,Woodensky Pierre,Haiti,371050,high,3
+570,Leverton Pierre,Haiti,20538,high,10
+571,Jean-Ricner Bellegarde,Haiti,20665,high,13
+572,Carl Sainté,Haiti,540857,high,0
+573,Danley Jean Jacques,Haiti,338367,high,14
+574,Jean-Kévin Duverne,Haiti,20655,high,12
+575,Carlens Arcus,Haiti,20850,high,15
+576,Hannes Delcroix,Haiti,1411,high,11
+577,Ricardo Adé,Haiti,12303,high,18
+578,Martin Expérience,Haiti,190747,high,11
+580,Wilguens Paugain,Haiti,275367,high,9
+581,Duke Lacroix,Haiti,102505,high,6
+582,Wilson Isidor,Haiti,84087,high,14
+583,Duckens Nazon,Haiti,45020,high,20
+584,Frantzdy Pierrot,Haiti,8601,high,24
+585,Derrick Etienne,Haiti,50958,high,17
+586,Louicius Deedson,Haiti,128766,high,11
+588,Yassin Fortuné,Haiti,48535,high,8
+589,Josué Casimir,Haiti,174915,high,7
+590,Ruben Providence,Haiti,162733,high,11
+591,Johny Placide,Haiti,87789,high,8
+592,Alexandre Pierre,Haiti,174768,high,6
+593,Josué Duverger,Haiti,123742,high,5
+1538,Keeto Thermoncy,Haiti,573613,high,0
+1539,Dominique Simon,Haiti,194242,high,14
+1540,Lenny Joseph,Haiti,21613,high,12
+594,Amir Mohammad Razzaghinia,IR Iran,423753,high,1
+596,Mohammad Ghorbani,IR Iran,341844,high,12
+597,Ramin Rezaeian,IR Iran,2691,high,19
+598,Hossein Kanani,IR Iran,2687,high,13
+599,Milad Mohammadi,IR Iran,2688,high,20
+600,Shoja Khalilzadeh,IR Iran,29704,high,14
+601,Ehsan Hajisafi,IR Iran,2685,high,17
+603,Saleh Hardani,IR Iran,136880,high,10
+606,Ali Nemati,IR Iran,533035,high,0
+608,Aria Yousefi,IR Iran,343405,high,5
+609,Danial Eiri,IR Iran,532950,high,0
+610,Mehdi Taremi,IR Iran,42315,high,27
+611,Alireza Jahanbakhsh,IR Iran,2700,high,19
+612,Saman Ghoddos,IR Iran,2699,high,15
+614,Ali Alipour,IR Iran,29720,high,9
+616,Amirhossein Hosseinzadeh,IR Iran,29937,high,14
+620,Alireza Beiranvand,IR Iran,2682,high,12
+621,Payam Niazmand,IR Iran,2681,high,9
+622,Hossein Hosseini,IR Iran,29755,high,11
+625,Mehdi Torabi,IR Iran,2697,high,11
+626,Saeid Ezatolahi,IR Iran,19614,high,21
+627,Mohammad Mohebi,IR Iran,134217,high,10
+629,Mehdi Ghayedi,IR Iran,643918,high,0
+1561,Roozbeh Cheshmi,IR Iran,2683,high,10
+2069,Shahriyar Moghanlou,IR Iran,89982,high,11
+615,Dennis Dargahi,IR Iran,,none,0
+630,Zaid Ismael,Iraq,626479,medium,0
+631,Marko Farji,Iraq,265448,high,10
+634,Kevin Yakob,Iraq,48025,high,7
+635,Amir Al Ammari,Iraq,47792,high,19
+636,Aimar Sher,Iraq,48129,high,8
+637,Merchas Doski,Iraq,271444,high,19
+638,Frans Putros,Iraq,15769,high,16
+639,Rebin Sulaka,Iraq,42261,high,15
+641,Hussein Ali,Iraq,145465,high,13
+642,Zaid Tahseen,Iraq,296373,high,6
+643,Munaf Younus,Iraq,295394,high,7
+644,Akam Hashim,Iraq,453073,high,2
+646,Aymen Hussein,Iraq,49451,high,18
+648,Ali Jasim,Iraq,542644,high,1
+649,Ali Al Hamadi,Iraq,299813,high,22
+650,Youssef Amyn,Iraq,282065,high,12
+653,Ahmed Basil,Iraq,197933,high,6
+654,Fahad Talib,Iraq,123802,high,3
+656,Zidane Iqbal,Iraq,284295,high,17
+657,Ibrahim Bayesh,Iraq,140747,high,16
+1563,Jalal Hassan,Iraq,53886,high,11
+1564,Mustafa Saadoon,Iraq,427187,high,7
+1565,Ahmed Yahya,Iraq,542849,high,1
+1568,Ahmed Qasem,Iraq,229112,high,11
+651,Ali Yousif,Iraq,457132,fallback,0
+647,Mohanad Ali,Iraq,,none,0
+659,Kaishu Sano,Japan,33889,high,16
+662,Yukinari Sugawara,Japan,32887,high,15
+663,Tsuyoshi Watanabe,Japan,32858,high,15
+665,Hiroki Ito,Japan,32893,high,17
+666,Shogo Taniguchi,Japan,32954,high,20
+667,Ayumu Seko,Japan,33165,high,9
+668,Junnosuke Suzuki,Japan,351014,high,11
+669,Junya Ito,Japan,1942,high,16
+670,Daizen Maeda,Japan,33224,high,22
+671,Keito Nakamura,Japan,33321,high,12
+672,Ayase Ueda,Japan,72155,high,25
+673,Koki Ogawa,Japan,33289,high,9
+675,Keisuke Goto,Japan,375930,high,11
+676,Kento Shiogai,Japan,422572,high,8
+677,Zion Suzuki,Japan,199578,high,15
+678,Keisuke Osako,Japan,33034,high,18
+679,Tomoki Hayakawa,Japan,304782,high,11
+680,Yuito Suzuki,Japan,199143,high,15
+681,Ao Tanaka,Japan,32966,high,19
+682,Daichi Kamada,Japan,2601,high,21
+684,Ritsu Doan,Japan,2598,high,21
+1454,Ko Itakura,Japan,38114,high,16
+1455,Takehiro Tomiyasu,Japan,2597,high,17
+1456,Yuto Nagatomo,Japan,440,high,16
+1457,Wataru Endo,Japan,8500,high,24
+1458,Takefusa Kubo,Japan,32862,high,19
+686,Ibrahim Sadeh,Jordan,542768,high,0
+687,Mohammad Al Daoud,Jordan,651096,high,0
+688,Noor Al Rawabdeh,Jordan,140609,high,13
+689,Nizar Al Rashdan,Jordan,213980,high,10
+690,Yazan Al Arab,Jordan,53900,high,18
+691,Abdallah Nasib,Jordan,310835,high,10
+692,Mohannad Abu Taha,Jordan,310785,high,8
+693,Mohammad Abu Hasheesh,Jordan,542710,high,0
+695,Husam Abu Al Dahab,Jordan,542822,high,0
+698,Saleem Obaid,Jordan,72140,high,3
+699,Mohammad Abu Al Nadi,Jordan,102538,high,7
+700,Amer Jamous,Jordan,198211,high,6
+701,Mousa Al Tamari,Jordan,15286,high,17
+702,Mohammad Abu Zraiq,Jordan,72142,high,9
+703,Mahmoud Al Mardi,Jordan,123530,high,13
+705,Ibrahim Sabra,Jordan,432841,high,12
+707,Ali Azaizeh,Jordan,575283,high,1
+708,Odeh Fakhoury,Jordan,568556,high,0
+709,Yazeed  Abulaila,Jordan,140607,medium,11
+710,Abdallah Al Fakhouri,Jordan,163884,high,7
+1543,Ehsan Haddad,Jordan,53902,high,9
+1544,Saed Al Rosan,Jordan,213978,high,4
+1545,Anas Badawi,Jordan,664028,high,0
+1546,Raja'ei Ayed,Jordan,104242,high,7
+1547,Ali Olwan,Jordan,164026,high,17
+1541,Nour Bani Ateyah,Jordan,,none,0
+713,Park Jin-Seob,Korea Republic,99211,medium,16
+714,Kim Jin-Gyu,Korea Republic,34168,high,14
+715,Kim Min-Jae,Korea Republic,2897,high,25
+716,Seol Young-Woo,Korea Republic,197985,high,18
+718,Kim Moon-Hwan,Korea Republic,2912,high,18
+719,Lee Han-Beom,Korea Republic,237218,high,11
+720,Lee Tae-Seok,Korea Republic,237220,high,14
+722,Kim Tae-Hyeon,Korea Republic,34418,high,12
+723,Son Heung-Min,Korea Republic,186,high,19
+724,Hwang Hee-Chan,Korea Republic,24888,high,19
+725,Cho Gue-Sung,Korea Republic,34211,high,18
+726,Oh Hyeon-Gyu,Korea Republic,34710,high,18
+727,Yang Hyun-Jun,Korea Republic,304958,high,21
+728,Eom Ji-Sung,Korea Republic,237050,high,13
+729,Jo Hyeon-Woo,Korea Republic,2890,high,21
+730,Kim Seung-Gyu,Korea Republic,2892,high,17
+731,Song Bum-Keun,Korea Republic,34374,high,14
+732,Paik Seung-Ho,Korea Republic,2909,high,21
+733,Jens Castrop,Korea Republic,280358,high,12
+735,Bae Jun-Ho,Korea Republic,357286,high,15
+736,Lee Kang-In,Korea Republic,927,high,23
+737,Lee Jae-Sung,Korea Republic,2906,high,16
+1548,Lee Gi-Hyuk,Korea Republic,304951,high,8
+1549,Hwang In-Beom,Korea Republic,2901,high,26
+1550,Lee Dong-Gyeong,Korea Republic,34431,high,15
+2070,Cho Wi-Je,Korea Republic,547307,high,0
+738,Obed Vargas,Mexico,313383,high,19
+740,Johan Vásquez,Mexico,35544,high,19
+741,César Montes,Mexico,2873,high,21
+742,Jesús Gallardo,Mexico,2881,high,21
+743,Jorge Sánchez,Mexico,2878,high,31
+744,Israel Reyes,Mexico,127227,high,23
+748,Raúl Jiménez,Mexico,2887,high,24
+750,Julián Quiñones,Mexico,35532,high,18
+751,Alexis Vega,Mexico,2889,high,21
+752,Roberto Alvarado,Mexico,2879,high,21
+753,Guillermo Martínez,Mexico,36088,high,14
+754,Armando González,Mexico,291713,high,9
+755,Guillermo Ochoa,Mexico,2098,high,14
+756,Carlos Acevedo,Mexico,35769,high,11
+757,Raúl Rangel,Mexico,270774,high,12
+758,Brian Gutiérrez,Mexico,212233,high,9
+759,Érik Lira,Mexico,266345,high,18
+762,Orbelín Pineda,Mexico,35576,high,23
+763,Álvaro Fidalgo,Mexico,750,high,20
+1465,Mateo Chávez,Mexico,390002,high,13
+1473,César Huerta,Mexico,36111,high,18
+1474,Edson Álvarez,Mexico,2869,high,28
+1476,Gilberto Mora,Mexico,482605,high,6
+1477,Luis Chávez,Mexico,35690,high,19
+1478,Luis Romo,Mexico,35970,high,22
+1485,Santiago Giménez,Mexico,94562,high,31
+765,Samir El Mourabet,Morocco,415431,high,9
+773,Anass Salah-Eddine,Morocco,162451,high,25
+777,Ayoub El Kaabi,Morocco,2722,high,26
+782,Gessime Yassine,Morocco,369544,high,10
+792,Ismael Saibari,Morocco,161897,high,28
+1668,Youssef Belammari,Morocco,146772,high,11
+1674,Ayyoub Bouaddi,Morocco,438688,high,13
+1676,Ayoube Amaimouni-Echghouyab,Morocco,535046,medium,2
+2009,Ahmed Tagnaouti,Morocco,2703,high,7
+2010,Yassine Bounou,Morocco,2701,high,29
+2011,Nayef Aguerd,Morocco,21694,high,25
+2012,Achraf Hakimi,Morocco,9,high,28
+2013,Chadi Riad,Morocco,278898,high,17
+2014,Noussair Mazraoui,Morocco,545,high,24
+2015,Redouane Halhal,Morocco,326183,high,6
+2016,Issa Diop,Morocco,18814,high,13
+2017,Zakaria El Ouahdi,Morocco,283252,high,14
+2018,Sofyan Amrabat,Morocco,74,high,29
+2019,Neil El Aynaoui,Morocco,277003,high,16
+2020,Brahim Díaz,Morocco,744,high,24
+2021,Azzedine Ounahi,Morocco,129678,high,21
+2022,Bilal El Khannouss,Morocco,340573,high,28
+2023,Soufiane Rahimi,Morocco,36579,high,21
+2024,Abde Ezzalzouli,Morocco,181421,high,27
+2025,Chemsdine Talbi,Morocco,336659,high,20
+1665,Munir El Kajoui,Morocco,,none,0
+795,Denzel Dumfries,Netherlands,226,high,24
+796,Virgil van Dijk,Netherlands,290,high,25
+797,Micky van de Ven,Netherlands,152849,high,20
+798,Nathan Aké,Netherlands,18861,high,30
+802,Jan Paul van Hecke,Netherlands,38695,high,19
+803,Jorrel Hato,Netherlands,341642,high,23
+804,Cody Gakpo,Netherlands,247,high,28
+805,Donyell Malen,Netherlands,249,high,27
+806,Noa Lang,Netherlands,544,high,27
+807,Brian Brobbey,Netherlands,38750,high,22
+808,Wout Weghorst,Netherlands,25416,high,23
+809,Bart Verbruggen,Netherlands,129058,high,19
+810,Mark Flekken,Netherlands,26232,high,19
+812,Ryan Gravenberch,Netherlands,542,high,24
+814,Teun Koopmeiners,Netherlands,36899,high,22
+816,Tijjani Reijnders,Netherlands,36902,high,22
+817,Quinten Timber,Netherlands,38747,high,25
+2036,Robin Roefs,Netherlands,194536,high,7
+2037,Jurriën Timber,Netherlands,38746,high,25
+2038,Guus Til,Netherlands,36905,high,20
+2039,Mats Wieffer,Netherlands,92993,high,20
+2040,Frenkie de Jong,Netherlands,538,high,24
+2041,Marten de Roon,Netherlands,30432,high,17
+2042,Justin Kluivert,Netherlands,792,high,14
+2043,Memphis Depay,Netherlands,667,high,25
+2044,Crysencio Summerville,Netherlands,37724,high,14
+818,Callum McCowatt,New Zealand,94322,high,13
+820,Alex Rufer,New Zealand,6934,high,11
+821,Joe Bell,New Zealand,94541,high,17
+822,Ryan Thomas,New Zealand,242,high,7
+823,Marko Stamenic,New Zealand,179862,high,20
+825,Tyler Bindon,New Zealand,430835,high,16
+826,Francis de Vries,New Zealand,94405,high,8
+827,Tim Payne,New Zealand,94346,high,13
+829,Callan Elliot,New Zealand,6932,high,6
+830,Finn Surman,New Zealand,210165,high,16
+831,Kosta Barbarouses,New Zealand,6865,high,18
+832,Elijah Just,New Zealand,94333,high,16
+833,Ben Waine,New Zealand,6938,high,25
+834,Ben Old,New Zealand,179856,high,13
+835,Jesse Randall,New Zealand,158688,high,10
+836,Lachlan Bayliss,New Zealand,405957,high,7
+838,Max Crocombe,New Zealand,18110,high,16
+839,Alex Paulsen,New Zealand,94360,high,10
+840,Michael Woud,New Zealand,36777,high,8
+1488,Michael Boxall,New Zealand,51149,high,14
+1489,Liberato Cacace,New Zealand,6931,high,14
+1490,Nando Pijnaker,New Zealand,94344,high,13
+1491,Tommy Smith,New Zealand,51307,high,14
+1492,Matthew Garbett,New Zealand,180455,high,17
+1493,Chris Wood,New Zealand,18931,high,17
+1494,Sarpreet Singh,New Zealand,6935,high,13
+841,Sander Berge,Norway,1934,high,19
+843,Oscar Bobb,Norway,278133,high,28
+844,Morten Thorsby,Norway,36980,high,16
+845,Patrick Berg,Norway,39064,high,24
+846,Kristoffer Ajer,Norway,1119,high,20
+847,Julian Ryerson,Norway,24845,high,25
+848,Marcus Pedersen,Norway,39362,high,20
+849,Leo Østigård,Norway,18967,high,19
+850,David Møller Wolfe,Norway,265782,high,20
+851,Fredrik Bjørkan,Norway,39058,high,19
+852,Torbjørn Heggem,Norway,39254,high,14
+854,Henrik Falchener,Norway,180937,high,7
+855,Erling Haaland,Norway,1100,high,29
+856,Alexander Sørloth,Norway,8492,high,26
+857,Andreas Schjelderup,Norway,301528,high,23
+858,Jørgen Strand Larsen,Norway,2032,high,22
+859,Ørjan Nyland,Norway,19172,high,17
+860,Egil Selvik,Norway,39082,high,11
+862,Jens Petter Hauge,Norway,39073,high,18
+863,Antonio Nusa,Norway,314511,high,23
+864,Kristian Thorstvedt,Norway,39143,high,17
+1681,Sander Tangvik,Norway,264378,high,10
+1682,Thelo Aasgaard,Norway,277930,high,19
+1683,Fredrik Aursnes,Norway,39043,high,27
+1684,Martin Ødegaard,Norway,37127,high,31
+1714,Sondre Langås,Norway,265444,high,12
+865,Carlos Harvey,Panama,71230,high,16
+866,Cristian Martínez,Panama,554208,high,0
+867,Yoel Bárcenas,Panama,46855,high,14
+868,José Luis Rodríguez,Panama,2979,high,18
+869,Aníbal Godoy,Panama,2977,high,17
+870,Amir Murillo,Panama,2973,high,24
+871,José Córdoba,Panama,57739,high,19
+872,Éric Davis,Panama,2970,high,14
+873,César Blackman,Panama,2975,high,25
+874,Andrés Andrade,Panama,7197,high,15
+875,Roderick Miller,Panama,81659,high,13
+876,Jiovany Ramos,Panama,57667,high,16
+878,Jorge Gutiérrez,Panama,57803,high,13
+879,Ismael Díaz,Panama,96615,high,20
+880,José Fajardo,Panama,2983,high,16
+881,Cecilio Waterman,Panama,51648,high,19
+882,César Yanis,Panama,57875,high,16
+884,Luis Mejía,Panama,2967,high,14
+885,Orlando Mosquera,Panama,2968,high,18
+886,César Samudio,Panama,57861,high,9
+887,Adalberto Carrasquilla,Panama,57807,high,22
+2026,Fidel Escobar,Panama,2971,high,17
+2027,Edgardo Fariña,Panama,328148,high,15
+2028,Alberto Quintero,Panama,2978,high,10
+2029,Azarías Londoño,Panama,292396,high,15
+2030,Tomás Rodríguez,Panama,57910,high,10
+2057,José Murillo,Panama,57940,fallback,0
+888,Maurício Magalhães Prado,Paraguay,106485,medium,24
+889,Alejandro Romero,Paraguay,2514,high,16
+890,Matías Galarza,Paraguay,305832,high,14
+892,Braian Ojeda,Paraguay,70767,high,14
+893,Gustavo Gómez,Paraguay,2502,high,23
+894,Júnior Alonso,Paraguay,2499,high,20
+895,Omar Alderete,Paraguay,6168,high,13
+896,Fabián Balbuena,Paraguay,2500,high,17
+898,Gustavo Velázquez,Paraguay,35808,high,11
+899,Juan José Cáceres,Paraguay,195992,high,13
+900,José Canale,Paraguay,70732,high,11
+901,Miguel Almirón,Paraguay,2507,high,19
+902,Antonio Sanabria,Paraguay,2522,high,10
+903,Ramón Sosa,Paraguay,196298,high,18
+904,Álex Arce,Paraguay,95460,high,15
+905,Gabriel Ávalos,Paraguay,6483,high,14
+906,Gustavo Caballero,Paraguay,119128,high,14
+907,Alexandro Maidana,Paraguay,425020,high,6
+908,Roberto Fernández,Paraguay,535737,high,0
+909,Gastón Olveira,Paraguay,51733,high,11
+910,Orlando Gill,Paraguay,70852,high,6
+911,Damián Bobadilla,Paraguay,195107,high,16
+912,Julio Enciso,Paraguay,70747,high,24
+913,Diego Gómez,Paraguay,278370,high,24
+1616,Andrés Cubas,Paraguay,6236,high,18
+1688,Isidro Pitta,Paraguay,70670,high,13
+915,Samú Costa,Portugal,190485,high,11
+916,Nuno Mendes,Portugal,263482,high,23
+917,João Cancelo,Portugal,855,high,28
+918,Diogo Dalot,Portugal,886,high,25
+919,Gonçalo Inácio,Portugal,265595,high,24
+921,Renato Veiga,Portugal,336671,high,18
+922,Tomás Araújo,Portugal,161939,high,18
+923,Gonçalo Ramos,Portugal,41585,high,24
+924,João Félix,Portugal,583,high,28
+925,Pedro Neto,Portugal,1864,high,22
+926,Trincão,Portugal,41112,high,19
+927,Gonçalo Guedes,Portugal,925,high,18
+928,Francisco Conceição,Portugal,161585,high,24
+931,Rui Silva,Portugal,46672,high,15
+932,José Sá,Portugal,1590,high,12
+934,Rúben Neves,Portugal,2676,high,22
+935,Matheus Nunes,Portugal,41621,high,27
+936,Vitinha,Portugal,128384,high,28
+937,João Neves,Portugal,335051,high,30
+939,Bruno Fernandes,Portugal,1485,high,27
+1569,Diogo Costa,Portugal,369,high,19
+1570,Rúben Dias,Portugal,567,high,27
+1571,Nélson Semedo,Portugal,130,high,18
+1572,Bernardo Silva,Portugal,636,high,29
+1573,Cristiano Ronaldo,Portugal,874,high,26
+1574,Rafael Leão,Portugal,22236,high,24
+942,Mohammad Al Mannai,Qatar,283174,high,12
+943,Ayoub Al Oui,Qatar,542548,high,0
+944,Ahmed Fathy,Qatar,2539,high,17
+946,Karim Boudiaf,Qatar,2537,high,20
+947,Assim Madibo,Qatar,2535,high,14
+949,Pedro Miguel,Qatar,2530,high,22
+951,Lucas Mendes,Qatar,42288,high,16
+952,Boualem Khoukhi,Qatar,2532,high,23
+955,Hashmi Al Hussain,Qatar,542542,high,0
+957,Issa Laye,Qatar,366516,high,3
+958,Akram Afif,Qatar,2544,high,25
+959,Almoez Ali,Qatar,2543,high,23
+960,Edmílson Junior,Qatar,42075,high,8
+961,Hassan Al Haydos,Qatar,2545,high,24
+962,Yusuf Abdurisag,Qatar,542541,high,2
+963,Ahmed Al Ganehi,Qatar,42286,high,16
+968,Meshaal Barsham,Qatar,42021,high,24
+969,Salah Zakaria,Qatar,136503,high,17
+971,Mahmud Abunada,Qatar,42207,high,7
+1506,Homam El Amin,Qatar,175439,high,24
+1507,Sultan Al Brake,Qatar,42060,high,18
+1508,Abdulaziz Hatem,Qatar,2533,high,15
+1509,Jassem Gaber,Qatar,200981,high,20
+1510,Ahmed Alaa,Qatar,2542,high,18
+1511,Mohammed Muntari,Qatar,42089,high,19
+1513,Tahsin Jamshid,Qatar,423737,high,9
+972,Musab Al Juwayr,Saudi Arabia,306380,high,23
+977,Ziyad Al Johani,Saudi Arabia,269172,high,13
+978,Mohamed Kanno,Saudi Arabia,44349,high,24
+980,Abdullah Al Khaibari,Saudi Arabia,44315,high,21
+982,Aiman Yahya,Saudi Arabia,147812,high,17
+983,Saud Abdulhamid,Saudi Arabia,44594,high,21
+984,Abdulelah Al Amri,Saudi Arabia,44475,high,17
+985,Hassan Kadish,Saudi Arabia,44335,high,16
+986,Ali Majrashi,Saudi Arabia,44367,high,11
+987,Nawaf Bu Washl,Saudi Arabia,134995,medium,21
+991,Ali Lajami,Saudi Arabia,44507,high,23
+992,Feras Al Brikan,Saudi Arabia,44324,high,20
+993,Abdullah Al Hamddan,Saudi Arabia,44382,high,24
+994,Khalid Al Ghannam,Saudi Arabia,44701,high,16
+995,Saleh Al Shehri,Saudi Arabia,44551,high,26
+997,Sultan Mandash,Saudi Arabia,2639,high,12
+999,Nawaf Al Aqidi,Saudi Arabia,193288,high,15
+1000,Ahmed Al Kassar,Saudi Arabia,44449,high,11
+1001,Mohammed Al Owais,Saudi Arabia,44411,high,14
+1951,Hassan Al Tambakti,Saudi Arabia,44362,high,27
+1953,Jehad Thikri,Saudi Arabia,543059,medium,0
+1954,Moteb Al Harbi,Saudi Arabia,202381,high,21
+1955,Salem Al Dawsari,Saudi Arabia,44340,high,20
+1956,Alaa Al Hejji,Saudi Arabia,593759,medium,0
+1957,Nasser Al Dawsari,Saudi Arabia,44339,high,24
+1958,Mohammed Abu Al Shamat,Saudi Arabia,403087,high,8
+1003,John McGinn,Scotland,19191,high,26
+1007,Ryan Christie,Scotland,1125,high,21
+1008,Kenny McLean,Scotland,19077,high,21
+1009,Andy Robertson,Scotland,289,high,29
+1010,Kieran Tierney,Scotland,1117,high,27
+1011,Nathan Patterson,Scotland,138417,high,23
+1012,Jack Hendry,Scotland,1111,high,18
+1013,John Souttar,Scotland,44865,high,24
+1014,Scott McKenna,Scotland,44811,high,21
+1015,Anthony Ralston,Scotland,1115,high,20
+1016,Dominic Hyam,Scotland,19987,high,16
+1018,Grant Hanley,Scotland,19066,high,21
+1019,Ché Adams,Scotland,19524,high,19
+1021,George Hirst,Scotland,8794,high,16
+1022,Lyndon Dykes,Scotland,45307,high,21
+1023,Findlay Curtis,Scotland,433272,high,11
+1024,Liam Kelly,Scotland,44937,high,12
+1025,Angus Gunn,Scotland,18933,high,13
+1027,Scott McTominay,Scotland,903,high,25
+1028,Lewis Ferguson,Scotland,44814,high,19
+1576,Craig Gordon,Scotland,1106,high,18
+1577,Aaron Hickey,Scotland,44871,high,13
+1578,Ben Gannon-Doak,Scotland,343576,medium,23
+1579,Ross Stewart,Scotland,45078,high,11
+1580,Lawrence Shankland,Scotland,45175,high,21
+2060,Tyler Fletcher,Scotland,557460,high,2
+1029,Idrissa Gueye,Senegal,2990,high,20
+1030,Pape Matar Sarr,Senegal,237129,high,27
+1031,Pathé Ciss,Senegal,41552,high,20
+1032,Pape Gueye,Senegal,20696,high,23
+1033,Mamadou Sarr,Senegal,276184,high,25
+1034,Moussa Niakhaté,Senegal,25916,high,21
+1035,El Hadji Malick Diouf,Senegal,409303,high,17
+1036,Ismail Jakobs,Senegal,158121,high,24
+1037,Kalidou Koulibaly,Senegal,318,high,27
+1038,Abdoulaye Seck,Senegal,8450,high,20
+1039,Antoine Mendy,Senegal,313937,high,19
+1041,Nicolas Jackson,Senegal,283058,high,24
+1042,Iliman Ndiaye,Senegal,18592,high,22
+1043,Ismaïla Sarr,Senegal,2218,high,23
+1046,Assane Diao,Senegal,400948,high,20
+1047,Cherif Ndiaye,Senegal,14379,high,21
+1048,Bamba Dieng,Senegal,284072,high,17
+1049,Ibrahim Mbaye,Senegal,446249,high,14
+1051,Édouard Mendy,Senegal,2986,high,23
+1052,Yehvann Diouf,Senegal,20566,high,14
+1053,Mory Diaw,Senegal,119853,high,6
+1054,Krépin Diatta,Senegal,81,high,23
+1055,Lamine Camara,Senegal,374058,high,21
+1056,Habib Diarra,Senegal,327631,high,17
+1695,Bara Sapoko Ndiaye,Senegal,630895,high,1
+1696,Sadio Mané,Senegal,304,high,27
+1057,Jayden Adams,South Africa,268710,high,24
+1058,Teboho Mokoena,South Africa,3287,high,27
+1059,Themba Zwane,South Africa,3289,high,21
+1060,Thalente Mbatha,South Africa,194430,high,17
+1061,Tshepang Moremi,South Africa,295977,high,17
+1062,Yaya Sithole,South Africa,158433,high,15
+1063,Aubrey Modiba,South Africa,46334,high,25
+1064,Thabang Matuludi,South Africa,330174,high,11
+1065,Khuliso Mudau,South Africa,46601,high,25
+1066,Nkosinathi Sibisi,South Africa,46458,high,23
+1067,Mbekezeli Mbokazi,South Africa,510799,high,8
+1068,Khulumani Ndamane,South Africa,474630,high,11
+1069,Ime Okon,South Africa,406752,high,11
+1070,Samukele Kabini,South Africa,430078,high,11
+1071,Lyle Foster,South Africa,98936,high,20
+1072,Relebohile Mofokeng,South Africa,414149,high,17
+1073,Oswin Appollis,South Africa,179893,high,18
+1075,Evidence Makgopa,South Africa,201354,high,22
+1076,Thapelo Maseko,South Africa,354831,high,18
+1077,Ronwen Williams,South Africa,3275,high,25
+1078,Ricardo Goss,South Africa,46245,high,14
+1698,Sipho Chaine,South Africa,46417,high,17
+1700,Olwethu Makhanya,South Africa,392387,high,2
+1701,Bradley Cross,South Africa,163041,high,12
+1704,Kamogelo Sebelebele,South Africa,359561,high,13
+1707,Iqraam Rayners,South Africa,127429,high,25
+1081,Yéremy Pino,Spain,184226,high,19
+1082,Álex Baena,Spain,182219,high,24
+1084,Martín Zubimendi,Spain,47315,high,21
+1085,Pedro Porro,Spain,47519,high,21
+1086,Aymeric Laporte,Spain,622,high,23
+1087,Alejandro Grimaldo,Spain,563,high,20
+1088,Marc Cucurella,Spain,47380,high,23
+1089,Pau Cubarsí,Spain,396623,high,27
+1092,Lamine Yamal,Spain,386828,high,23
+1093,Ferran Torres,Spain,931,high,26
+1094,Mikel Oyarzabal,Spain,47323,high,17
+1095,Borja Iglesias,Spain,47348,high,18
+1097,Víctor Muñoz,Spain,338751,high,8
+1098,David Raya,Spain,19465,high,17
+1099,Unai Simón,Spain,47270,high,19
+1101,Joan García,Spain,182718,high,13
+1102,Marcos Llorente,Spain,753,high,21
+1104,Rodri,Spain,44,high,27
+1105,Dani Olmo,Spain,1323,high,23
+1106,Pedri,Spain,133609,high,25
+1995,Eric García,Spain,619,high,17
+1996,Marc Pubill,Spain,295793,high,14
+1997,Mikel Merino,Spain,47311,high,23
+1998,Fabián Ruiz,Spain,328,high,25
+1999,Gavi,Spain,296667,high,20
+2000,Nico Williams,Spain,183799,high,23
+1109,Besfort Zeneli,Sweden,350850,high,13
+1110,Elliot Stroud,Sweden,226765,high,7
+1111,Taha Ali,Sweden,160925,high,13
+1112,Eric Smith,Sweden,8486,high,8
+1113,Lucas Bergvall,Sweden,347316,high,23
+1114,Yasin Ayari,Sweden,265820,high,23
+1116,Jesper Karlström,Sweden,48047,high,19
+1117,Mattias Svanberg,Sweden,30484,high,16
+1118,Daniel Svensson,Sweden,198654,high,18
+1119,Gabriel Gudmundsson,Sweden,47969,high,18
+1120,Carl Starfelt,Sweden,47988,high,19
+1121,Victor Lindelöf,Sweden,889,high,29
+1122,Gustaf Lagerbielke,Sweden,137721,high,14
+1124,Viktor Gyökeres,Sweden,18979,high,23
+1125,Anthony Elanga,Sweden,153430,high,32
+1126,Benjamin Nygren,Sweden,48002,high,15
+1127,Gustaf Nilsson,Sweden,15683,high,18
+1129,Kristoffer Nordfeldt,Sweden,2851,high,12
+1514,Viktor Johansson,Sweden,158700,high,13
+1515,Jacob Widell Zetterström,Sweden,48033,high,17
+1516,Hjalmar Ekdal,Sweden,47903,high,16
+1518,Isak Hien,Sweden,137976,high,25
+1519,Ken Sema,Sweden,2860,high,18
+1520,Alexander Isak,Sweden,2864,high,21
+1521,Alexander Bernhardsson,Sweden,47696,high,12
+2062,Herman Johansson,Sweden,161504,high,8
+1133,Johan Manzambi,Switzerland,406244,high,12
+1135,Granit Xhaka,Switzerland,1464,high,23
+1137,Michel Aebischer,Switzerland,951,high,19
+1138,Remo Freuler,Switzerland,2807,high,20
+1139,Ardon Jashari,Switzerland,264705,high,20
+1140,Fabian Rieder,Switzerland,163032,high,25
+1141,Manuel Akanji,Switzerland,5,high,30
+1142,Ricardo Rodríguez,Switzerland,1631,high,20
+1143,Nico Elvedi,Switzerland,2803,high,15
+1144,Silvan Widmer,Switzerland,48378,high,17
+1145,Miro Muheim,Switzerland,48489,high,11
+1146,Eray Cömert,Switzerland,48372,high,16
+1147,Aurèle Amenda,Switzerland,162414,high,17
+1148,Luca Jaquez,Switzerland,349344,high,14
+1149,Breel Embolo,Switzerland,421,high,19
+1150,Noah Okafor,Switzerland,48389,high,26
+1151,Dan Ndoye,Switzerland,48648,high,22
+1153,Gregor Kobel,Switzerland,25282,high,23
+1154,Yvon Mvogo,Switzerland,1142,high,8
+1155,Marvin Keller,Switzerland,123468,high,12
+1156,Djibril Sow,Switzerland,957,high,18
+1157,Denis Zakaria,Switzerland,2810,high,24
+1158,Rubén Vargas,Switzerland,48471,high,18
+1581,Christian Fassnacht,Switzerland,952,high,15
+1582,Zeki Amdouni,Switzerland,123469,high,20
+1583,Cedric Itten,Switzerland,48497,high,15
+1160,Ellyes Skhiri,Tunisia,21587,high,24
+1161,Rani Khedira,Tunisia,25300,high,10
+1162,Hadj Mahmoud,Tunisia,67195,high,17
+1163,Mortadha Ben Ouanes,Tunisia,49469,high,13
+1164,Anis Ben Slimane,Tunisia,199310,high,21
+1165,Moutaz Neffati,Tunisia,375608,high,7
+1166,Ali Abdi,Tunisia,49583,high,20
+1167,Omar Rekik,Tunisia,163068,high,8
+1169,Adem Arous,Tunisia,393977,high,8
+1170,Mohamed Amine Ben Hmida,Tunisia,135059,medium,10
+1172,Raed Chikhaoui,Tunisia,533360,high,0
+1174,Ismaël Gharbi,Tunisia,310196,high,17
+1175,Elias Saad,Tunisia,323974,high,15
+1176,Firas Chaouat,Tunisia,2962,high,4
+1177,Sebastian Tounekti,Tunisia,57518,high,13
+1178,Hazem Mastouri,Tunisia,344862,high,9
+1181,Rayan Elloumi,Tunisia,566059,high,3
+1183,Khalil Ayari,Tunisia,533295,high,0
+1184,Abdelmouhib Chamakh,Tunisia,533394,medium,0
+1185,Aymen Dahmen,Tunisia,49424,high,16
+1187,Sabri Ben Hessen,Tunisia,49423,high,5
+1551,Montassar Talbi,Tunisia,50030,high,19
+1552,Dylan Bronn,Tunisia,2945,high,17
+1553,Yan Valery,Tunisia,18942,high,15
+1554,Elias Achouri,Tunisia,42012,high,19
+1555,Hannibal Mejbri,Tunisia,180560,high,28
+1188,Ismail Yüksek,Türkiye,214463,high,27
+1189,Salih Özcan,Türkiye,24807,high,22
+1191,Irfan Can Kahveci,Türkiye,49857,high,27
+1192,Orkun Kökçü,Türkiye,37155,high,29
+1193,Kaan Ayhan,Türkiye,25448,high,29
+1194,Zeki Çelik,Türkiye,22222,high,24
+1195,Ferdi Kadioglu,Türkiye,1361,high,23
+1196,Samet Akaydin,Türkiye,62490,high,21
+1197,Mert Müldür,Türkiye,1719,high,24
+1198,Ozan Kabak,Türkiye,26300,high,12
+1199,Eren Elmali,Türkiye,50057,high,28
+1200,Abdülkerim Bardakci,Türkiye,61837,high,26
+1201,Merih Demiral,Türkiye,30521,high,22
+1204,Kenan Yildiz,Türkiye,339883,high,25
+1205,Kerem Aktürkoglu,Türkiye,142959,high,34
+1206,Baris Alper Yilmaz,Türkiye,63274,high,27
+1208,Oguz Aydin,Türkiye,134590,high,22
+1209,Yunus Akgün,Türkiye,454,high,25
+1210,Deniz Gül,Türkiye,388570,high,18
+1211,Ugurcan Çakir,Türkiye,49866,high,30
+1212,Altay Bayindir,Türkiye,50132,high,23
+1213,Mert Günok,Türkiye,49837,high,22
+1215,Arda Güler,Türkiye,291964,high,26
+1216,Hakan Çalhanoglu,Türkiye,1640,high,26
+1586,Çaglar Söyüncü,Türkiye,18776,high,26
+1589,Can Uzun,Türkiye,339887,high,18
+1249,Cristian Roldan,USA,51114,high,16
+1250,Sebastian Berhalter,USA,201713,high,16
+1253,Brenden Aaronson,USA,50739,high,21
+1254,Malik Tillman,USA,162037,high,28
+1255,Weston McKennie,USA,415,high,26
+1256,Giovanni Reyna,USA,161921,high,27
+1258,Antonee Robinson,USA,19549,high,20
+1259,Chris Richards,USA,126949,high,26
+1260,Joe Scally,USA,50852,high,16
+1261,Tim Ream,USA,19023,high,19
+1262,Mark McKenzie,USA,50735,high,20
+1263,Auston Trusty,USA,50737,high,25
+1264,Alexander Freeman,USA,355994,high,14
+1265,Timothy Weah,USA,1138,high,24
+1266,Ricardo Pepi,USA,73868,high,28
+1267,Folarin Balogun,USA,138835,high,20
+1269,Max Arfsten,USA,362400,high,15
+1270,Matt Turner,USA,50999,high,21
+1271,Matt Freese,USA,50728,high,11
+1273,Chris Brady,USA,266606,high,7
+1274,Christian Pulisic,USA,17,high,28
+2031,Sergiño Dest,USA,38735,high,21
+2032,Miles Robinson,USA,50879,high,21
+2033,Tyler Adams,USA,1150,high,19
+2034,Haji Wright,USA,427,high,18
+2035,Álex Zendejas,USA,35885,high,21
+1218,Juan Manuel Sanabria,Uruguay,162891,high,8
+1219,Emiliano Martínez,Uruguay,153083,high,14
+1222,Facundo Pellistri,Uruguay,70078,high,24
+1223,Maxi Araújo,Uruguay,51776,high,19
+1224,Manuel Ugarte,Uruguay,51494,high,25
+1225,Nicolás de la Cruz,Uruguay,5995,high,22
+1226,Ronald Araujo,Uruguay,101814,high,20
+1227,José María Giménez,Uruguay,31,high,20
+1228,Matías Viña,Uruguay,51572,high,20
+1229,Mathías Olivera,Uruguay,47254,high,17
+1230,Guillermo Varela,Uruguay,1290,high,25
+1231,Sebastián Cáceres,Uruguay,51535,high,18
+1232,Santiago Bueno,Uruguay,135334,high,15
+1236,Darwin Núñez,Uruguay,51617,high,21
+1237,Federico Viñas,Uruguay,51530,high,10
+1238,Brian Rodríguez,Uruguay,51618,high,21
+1239,Rodrigo Aguirre,Uruguay,16482,high,16
+1241,Agustín Canobbio,Uruguay,51603,high,28
+1244,Sergio Rochet,Uruguay,50077,high,20
+1245,Fernando Muslera,Uruguay,429,high,19
+1246,Santiago Mele,Uruguay,61895,high,16
+1247,Giorgian de Arrascaeta,Uruguay,2612,high,28
+1248,Federico Valverde,Uruguay,756,high,25
+2063,Joaquín Piquerez,Uruguay,51466,high,23
+2064,Rodrigo Bentancur,Uruguay,863,high,22
+2065,Rodrigo Zalazar,Uruguay,108563,high,16
+1275,Abdulla Abdullaev,Uzbekistan,416952,high,0
+1278,Sherzod Esanov,Uzbekistan,363723,high,11
+1282,Akmal Mozgovoy,Uzbekistan,73522,high,13
+1284,Otabek Shukurov,Uzbekistan,50272,high,19
+1286,Dostonbek Khamdamov,Uzbekistan,53834,high,15
+1287,Aziz G'aniev,Uzbekistan,73520,high,11
+1288,Odiljon Hamrobekov,Uzbekistan,53835,high,17
+1289,Oston Urunov,Uzbekistan,72127,medium,16
+1290,Jamshid Iskanderov,Uzbekistan,65576,high,12
+1291,Jaloliddin Masharipov,Uzbekistan,53836,high,10
+1292,Abbosbek Fayzullaev,Uzbekistan,263676,high,27
+1293,Abdukodir Khusanov,Uzbekistan,360114,high,26
+1294,Rustam Ashurmatov,Uzbekistan,34121,high,16
+1295,Sherzod Nasrullaev,Uzbekistan,73514,high,15
+1296,Farrukh Sayfiev,Uzbekistan,532759,high,0
+1297,Khojiakbar Alijonov,Uzbekistan,72122,high,18
+1300,Umar Eshmurodov,Uzbekistan,73510,high,20
+1302,Avazbek O'lmasaliev,Uzbekistan,65571,high,8
+1303,Bekhruz Karimov,Uzbekistan,416964,high,5
+1305,Jakhongir Urozov,Uzbekistan,358427,high,15
+1306,Eldor Shomurodov,Uzbekistan,53535,high,22
+1307,Igor Sergeev,Uzbekistan,72128,high,19
+1310,Azizbek Amanov,Uzbekistan,65584,medium,10
+1311,Abduvokhid Ne'matov,Uzbekistan,73507,high,14
+1312,Utkir Yusupov,Uzbekistan,73534,high,11
+1314,Botirali Ergashev,Uzbekistan,72120,high,10
